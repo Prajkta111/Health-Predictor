@@ -1,0 +1,25 @@
+{
+  "generated_at": "2025-08-25T15:51:15.699089+00:00",
+  "models": [
+    {
+      "key": "decision_tree",
+      "file": "decision_tree.onnx",
+      "n_features": 404
+    },
+    {
+      "key": "diabetes",
+      "file": "diabetes.onnx",
+      "n_features": 8
+    },
+    {
+      "key": "heart",
+      "file": "heart.onnx",
+      "n_features": 13
+    },
+    {
+      "key": "parkinsons",
+      "file": "parkinsons.onnx",
+      "n_features": 22
+    }
+  ]
+}

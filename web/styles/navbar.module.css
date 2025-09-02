@@ -1,0 +1,447 @@
+/* Enhanced Navbar with Portfolio-2 Features */
+
+/* Main navbar container with perfect alignment and transparency */
+.navbar {
+  position: fixed;
+  top: 1rem;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 95%;
+  max-width: 820px; 
+  z-index: 50;
+  border-radius: 9999px; /* Full rounded */
+  transition: all 0.7s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  overflow: hidden;
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+}
+
+/* Hidden state for scroll behavior */
+.navbar.hidden {
+  transform: translateX(-50%) translateY(-100px);
+  opacity: 0;
+  pointer-events: none;
+}
+
+/* Visible state */
+.navbar.visible {
+  transform: translateX(-50%) translateY(0);
+  opacity: 1;
+  pointer-events: auto;
+}
+
+/* Hover zone for showing navbar when hidden */
+.navbarHoverZone {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 100px;
+  z-index: 49;
+  pointer-events: none;
+}
+
+.navbarHoverZone.active {
+  pointer-events: auto;
+}
+
+/* Completely transparent background variants with borders */
+.navbarBackground {
+  background: rgba(255, 255, 255, 0.1); /* Ultra transparent */
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  box-shadow: 
+    0 8px 40px rgba(0, 0, 0, 0.12),
+    0 0 0 1px rgba(255, 255, 255, 0.1) inset;
+}
+
+.dark .navbarBackground {
+  background: rgba(23, 23, 23, 0.15); /* Ultra transparent */
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  box-shadow: 
+    0 8px 40px rgba(0, 0, 0, 0.3),
+    0 0 0 1px rgba(255, 255, 255, 0.05) inset;
+}
+
+.navbarBackgroundScrolled {
+  background: rgba(255, 255, 255, 0.2); /* Still very transparent */
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  box-shadow: 
+    0 16px 40px rgba(0, 0, 0, 0.15),
+    0 0 0 1px rgba(255, 255, 255, 0.15) inset;
+}
+
+.dark .navbarBackgroundScrolled {
+  background: rgba(23, 23, 23, 0.25); /* Still very transparent */
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  box-shadow: 
+    0 16px 40px rgba(0, 0, 0, 0.4),
+    0 0 0 1px rgba(255, 255, 255, 0.08) inset;
+}
+
+/* Mouse-tracking lighting ball - 50% larger and brighter with neon effects */
+.navbarLightingBall {
+  position: absolute;
+  width: 60px; /* 50% larger than previous 40px */
+  height: 60px;
+  border-radius: 50%;
+  pointer-events: none;
+  transition: all 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  z-index: 1;
+  opacity: 0;
+  transform: scale(0.8);
+}
+
+.navbarLightingBall.active {
+  opacity: 1;
+  transform: scale(1);
+  background: radial-gradient(
+    circle,
+    rgba(139, 69, 219, 0.8) 0%, /* Much brighter core */
+    rgba(139, 69, 219, 0.6) 20%,
+    rgba(139, 69, 219, 0.4) 40%,
+    rgba(139, 69, 219, 0.2) 60%,
+    rgba(139, 69, 219, 0.1) 80%,
+    transparent 100%
+  );
+  box-shadow: 
+    0 0 30px rgba(139, 69, 219, 0.8), /* Brighter inner glow */
+    0 0 60px rgba(139, 69, 219, 0.6), /* Larger outer glow */
+    0 0 100px rgba(139, 69, 219, 0.4), /* Extended neon glow */
+    inset 0 0 20px rgba(139, 69, 219, 0.3);
+  filter: blur(1px);
+}
+
+.dark .navbarLightingBall.active {
+  background: radial-gradient(
+    circle,
+    rgba(167, 139, 250, 0.9) 0%, /* Even brighter in dark mode */
+    rgba(167, 139, 250, 0.7) 20%,
+    rgba(167, 139, 250, 0.5) 40%,
+    rgba(167, 139, 250, 0.3) 60%,
+    rgba(167, 139, 250, 0.15) 80%,
+    transparent 100%
+  );
+  box-shadow: 
+    0 0 35px rgba(167, 139, 250, 0.9),
+    0 0 70px rgba(167, 139, 250, 0.7),
+    0 0 120px rgba(167, 139, 250, 0.5),
+    inset 0 0 25px rgba(167, 139, 250, 0.4);
+}
+
+.navLink {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  padding: 0.5rem 1rem;
+  border-radius: 9999px;
+  transition: all 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  text-decoration: none;
+  color: inherit;
+  overflow: hidden;
+  background: transparent;
+  border: 1px solid transparent;
+  cursor: pointer;
+  z-index: 2;
+}
+
+/* Portfolio-2 style neon border effect */
+.navLink::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  border-radius: 9999px;
+  padding: 1px;
+  background: linear-gradient(135deg, 
+    rgba(139, 69, 219, 0.0) 0%, 
+    rgba(139, 69, 219, 0.4) 50%, 
+    rgba(147, 51, 234, 0.0) 100%
+  );
+  mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  mask-composite: xor;
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  opacity: 0;
+  transition: opacity 0.5s ease;
+}
+
+.navLink:hover::before {
+  opacity: 1;
+  background: linear-gradient(135deg, 
+    rgba(139, 69, 219, 0.0) 0%, 
+    rgba(139, 69, 219, 0.8) 50%, /* Brighter on hover */
+    rgba(147, 51, 234, 0.0) 100%
+  );
+}
+
+/* Portfolio-2 style radial gradient effect */
+.navLink::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  border-radius: 9999px;
+  background: radial-gradient(
+    80px 80px at var(--mouse-x, 50%) var(--mouse-y, 50%),
+    rgba(139, 69, 219, 0.3) 0%,
+    rgba(139, 69, 219, 0.15) 30%,
+    transparent 70%
+  );
+  opacity: 0;
+  transition: opacity 0.5s ease;
+  pointer-events: none;
+}
+
+.navLink:hover::after {
+  opacity: 1;
+}
+
+.navLink:hover {
+  color: rgb(139 69 219 / 1); /* violet-500 */
+  text-shadow: 0 0 12px rgba(139, 69, 219, 0.8); /* Brighter text shadow */
+  transform: scale(1.05);
+  border-color: rgba(139, 69, 219, 0.3);
+  background: rgba(139, 69, 219, 0.05);
+  box-shadow: 0 0 20px rgba(139, 69, 219, 0.3); /* Neon glow around link */
+}
+
+.dark .navLink:hover {
+  color: rgb(167 139 250 / 1); /* violet-400 */
+  text-shadow: 0 0 16px rgba(167, 139, 250, 0.9);
+  border-color: rgba(167, 139, 250, 0.4);
+  background: rgba(167, 139, 250, 0.08);
+  box-shadow: 0 0 25px rgba(167, 139, 250, 0.4);
+}
+
+.dark .navLink::after {
+  background: radial-gradient(
+    80px 80px at var(--mouse-x, 50%) var(--mouse-y, 50%),
+    rgba(167, 139, 250, 0.4) 0%,
+    rgba(167, 139, 250, 0.2) 30%,
+    transparent 70%
+  );
+}
+
+.dark .navLink::before {
+  background: linear-gradient(135deg, 
+    rgba(167, 139, 250, 0.0) 0%, 
+    rgba(167, 139, 250, 0.5) 50%, 
+    rgba(139, 69, 219, 0.0) 100%
+  );
+}
+
+.dark .navLink:hover::before {
+  background: linear-gradient(135deg, 
+    rgba(167, 139, 250, 0.0) 0%, 
+    rgba(167, 139, 250, 0.9) 50%, 
+    rgba(139, 69, 219, 0.0) 100%
+  );
+}
+
+/* Active state with enhanced neon effects */
+.navLinkActive {
+  color: rgb(139 69 219 / 1); /* violet-500 */
+  text-shadow: 0 0 12px rgba(139, 69, 219, 0.8);
+  background: rgba(139, 69, 219, 0.15);
+  border: 1px solid rgba(139, 69, 219, 0.4);
+  box-shadow: 
+    0 0 25px rgba(139, 69, 219, 0.5),
+    0 0 50px rgba(139, 69, 219, 0.3),
+    inset 0 0 15px rgba(139, 69, 219, 0.2);
+}
+
+.dark .navLinkActive {
+  color: rgb(167 139 250 / 1); /* violet-400 */
+  text-shadow: 0 0 16px rgba(167, 139, 250, 0.9);
+  background: rgba(167, 139, 250, 0.2);
+  border: 1px solid rgba(167, 139, 250, 0.5);
+  box-shadow: 
+    0 0 30px rgba(167, 139, 250, 0.6),
+    0 0 60px rgba(167, 139, 250, 0.4),
+    inset 0 0 20px rgba(167, 139, 250, 0.3);
+}
+
+/* Underline effect */
+.navLinkUnderline {
+  position: absolute;
+  bottom: -2px;
+  left: 0.5rem;
+  right: 0.5rem;
+  height: 2px;
+  background: linear-gradient(90deg, rgba(139, 69, 219, 1), rgba(147, 51, 234, 1));
+  border-radius: 1px;
+  transform: scaleX(0);
+  transition: transform 0.5s ease;
+}
+
+.navLink:hover .navLinkUnderline,
+.navLinkActive .navLinkUnderline {
+  transform: scaleX(1);
+}
+
+.dark .navLinkUnderline {
+  background: linear-gradient(90deg, rgba(167, 139, 250, 1), rgba(139, 69, 219, 1));
+}
+
+/* Mobile nav items with enhanced effects */
+.mobileNavLink {
+  position: relative;
+  display: flex;
+  align-items: center;
+  padding: 0.75rem 1rem;
+  border-radius: 0.75rem;
+  transition: all 0.3s ease;
+  text-decoration: none;
+  color: inherit;
+  overflow: hidden;
+  background: transparent;
+  border: 1px solid transparent;
+}
+
+.mobileNavLink:hover {
+  background: rgba(139, 69, 219, 0.15);
+  border-color: rgba(139, 69, 219, 0.3);
+  color: rgb(139 69 219 / 1);
+  text-shadow: 0 0 12px rgba(139, 69, 219, 0.8);
+  transform: translateX(6px);
+  box-shadow: 0 0 20px rgba(139, 69, 219, 0.3);
+}
+
+.dark .mobileNavLink:hover {
+  background: rgba(167, 139, 250, 0.2);
+  border-color: rgba(167, 139, 250, 0.4);
+  color: rgb(167 139 250 / 1);
+  text-shadow: 0 0 16px rgba(167, 139, 250, 0.9);
+  box-shadow: 0 0 25px rgba(167, 139, 250, 0.4);
+}
+
+.mobileNavLinkActive {
+  background: rgba(139, 69, 219, 0.2);
+  border-color: rgba(139, 69, 219, 0.4);
+  color: rgb(139 69 219 / 1);
+  text-shadow: 0 0 12px rgba(139, 69, 219, 0.8);
+  box-shadow: 
+    0 0 25px rgba(139, 69, 219, 0.4),
+    inset 0 0 15px rgba(139, 69, 219, 0.2);
+}
+
+.dark .mobileNavLinkActive {
+  background: rgba(167, 139, 250, 0.25);
+  border-color: rgba(167, 139, 250, 0.5);
+  color: rgb(167 139 250 / 1);
+  text-shadow: 0 0 16px rgba(167, 139, 250, 0.9);
+  box-shadow: 
+    0 0 30px rgba(167, 139, 250, 0.5),
+    inset 0 0 20px rgba(167, 139, 250, 0.3);
+}
+
+/* Enhanced glow pulse animation */
+@keyframes glow-pulse {
+  0%, 100% {
+    box-shadow: 
+      0 0 25px rgba(139, 69, 219, 0.5),
+      0 0 50px rgba(139, 69, 219, 0.3),
+      inset 0 0 15px rgba(139, 69, 219, 0.2);
+  }
+  50% {
+    box-shadow: 
+      0 0 35px rgba(139, 69, 219, 0.7),
+      0 0 70px rgba(139, 69, 219, 0.5),
+      inset 0 0 20px rgba(139, 69, 219, 0.3);
+  }
+}
+
+@keyframes glow-pulse-dark {
+  0%, 100% {
+    box-shadow: 
+      0 0 30px rgba(167, 139, 250, 0.6),
+      0 0 60px rgba(167, 139, 250, 0.4),
+      inset 0 0 20px rgba(167, 139, 250, 0.3);
+  }
+  50% {
+    box-shadow: 
+      0 0 40px rgba(167, 139, 250, 0.8),
+      0 0 80px rgba(167, 139, 250, 0.6),
+      inset 0 0 25px rgba(167, 139, 250, 0.4);
+  }
+}
+
+.navLinkActive {
+  animation: glow-pulse 2s ease-in-out infinite;
+}
+
+.dark .navLinkActive {
+  animation: glow-pulse-dark 2s ease-in-out infinite;
+}
+
+/* Responsive adjustments with Portfolio-2 sizing */
+@media (max-width: 768px) {
+  .navbar {
+    width: 95%;
+    max-width: 95vw; /* Portfolio-2 responsive approach */
+    top: 0.5rem;
+    padding: 0 1rem; /* Add padding for mobile */
+  }
+
+  .navbarLightingBall {
+    width: 50px; /* Slightly smaller on mobile but still large */
+    height: 50px;
+  }
+  
+  .navLink {
+    padding: 0.5rem 0.75rem;
+  }
+  
+  .navLink:hover {
+    transform: scale(1.02);
+  }
+  
+  .mobileNavLink {
+    padding: 1rem;
+  }
+}
+
+@media (max-width: 640px) {
+  .navbar {
+    width: 98%;
+    top: 0.25rem;
+    padding: 0 0.75rem;
+  }
+  
+  .navbarLightingBall {
+    width: 45px;
+    height: 45px;
+  }
+}
+
+@media (min-width: 769px) {
+  .navbar {
+    padding: 0 1.5rem; /* Better padding for desktop */
+  }
+}
+
+/* Accessibility improvements */
+@media (prefers-reduced-motion: reduce) {
+  .navbar,
+  .navbarLightingBall,
+  .navLink,
+  .mobileNavLink,
+  .navLinkUnderline {
+    transition: none;
+  }
+  
+  .navLinkActive,
+  .dark .navLinkActive {
+    animation: none;
+  }
+}
+
+/* Focus states for accessibility */
+.navLink:focus-visible,
+.mobileNavLink:focus-visible {
+  outline: 2px solid rgba(139, 69, 219, 0.6);
+  outline-offset: 2px;
+}
+
+.dark .navLink:focus-visible,
+.dark .mobileNavLink:focus-visible {
+  outline: 2px solid rgba(167, 139, 250, 0.6);
+}

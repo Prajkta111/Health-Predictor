@@ -1,0 +1,4144 @@
+Source,Target,Weight
+hypertensive disease,shortness of breath,3363
+hypertensive disease,dizziness,3363
+hypertensive disease,pain chest,3363
+hypertensive disease,sweat,3363
+hypertensive disease,sweating increased,3363
+hypertensive disease,syncope,3363
+hypertensive disease,vertigo,3363
+hypertensive disease,palpitation,3363
+hypertensive disease,nausea,3363
+hypertensive disease,pressure chest,3363
+hypertensive disease,angina pectoris,3363
+hypertensive disease,fall,3363
+hypertensive disease,asthenia,3363
+hypertensive disease,abscess bacterial,2100
+diabetes,rale,1772
+hypertensive disease,feeling suicidal,1689
+hypertensive disease,hyponatremia,1634
+hypertensive disease,fever,1586
+diabetes,pain chest,1560
+depression mental,headache,1511
+diabetes,hyponatremia,1500
+depressive disorder,nausea,1448
+diabetes,palpitation,1431
+diabetes,shortness of breath,1421
+diabetes,orthopnea,1421
+diabetes,sweating increased,1421
+diabetes,sweat,1421
+diabetes,labored breathing,1421
+diabetes,polyuria,1421
+diabetes,polydypsia,1421
+diabetes,nausea,1421
+diabetes,asthenia,1421
+diabetes,unresponsiveness,1421
+diabetes,mental status changes,1421
+diabetes,vomiting,1421
+diabetes,vertigo,1421
+diabetes,intoxication,1415
+depression mental,shortness of breath,1389
+depressive disorder,feeling hopeless,1358
+depression mental,weepiness,1337
+depression mental,difficulty,1337
+depressive disorder,verbal auditory hallucinations,1337
+depressive disorder,intoxication,1337
+depressive disorder,tremor,1337
+depressive disorder,agitation,1337
+depressive disorder,worry,1337
+depression mental,sleeplessness,1337
+depression mental,irritable mood,1337
+depressive disorder,energy increased,1337
+depressive disorder,nightmare,1337
+depressive disorder,hallucinations visual,1337
+depressive disorder,unable to concentrate,1337
+depression mental,blackout,1337
+depressive disorder,homelessness,1337
+depression mental,worry,1337
+depression mental,agitation,1337
+depression mental,tremor,1337
+depression mental,intoxication,1337
+depression mental,verbal auditory hallucinations,1337
+depressive disorder,hallucinations auditory,1337
+depressive disorder,motor retardation,1337
+depressive disorder,irritable mood,1337
+depressive disorder,blackout,1337
+depressive disorder,mood depressed,1337
+depressive disorder,difficulty,1337
+depression mental,mood depressed,1337
+depression mental,feeling suicidal,1337
+depression mental,hallucinations visual,1337
+depressive disorder,weepiness,1337
+depression mental,motor retardation,1337
+depressive disorder,sleeplessness,1337
+depression mental,feeling hopeless,1337
+depressive disorder,suicidal,1337
+depressive disorder,feeling suicidal,1337
+depression mental,homelessness,1337
+depression mental,unable to concentrate,1337
+depression mental,energy increased,1337
+depression mental,nightmare,1337
+depression mental,suicidal,1337
+depression mental,hallucinations auditory,1337
+coronary heart disease,sweat,1284
+coronary heart disease,hypokinesia,1284
+coronary heart disease,dyspnea on exertion,1284
+coronary heart disease,chest tightness,1284
+coronary heart disease,pain chest,1284
+coronary arteriosclerosis,shortness of breath,1284
+coronary arteriosclerosis,sweating increased,1284
+coronary arteriosclerosis,angina pectoris,1284
+coronary arteriosclerosis,hypokinesia,1284
+coronary arteriosclerosis,sweat,1284
+coronary arteriosclerosis,pressure chest,1284
+coronary arteriosclerosis,pain chest,1284
+coronary heart disease,angina pectoris,1284
+coronary arteriosclerosis,chest tightness,1284
+coronary arteriosclerosis,orthopnea,1284
+coronary arteriosclerosis,dyspnea on exertion,1284
+coronary heart disease,sweating increased,1284
+coronary heart disease,shortness of breath,1284
+coronary heart disease,pressure chest,1284
+coronary heart disease,orthopnea,1284
+coronary heart disease,gurgle,1232
+diabetes,speech slurred,1225
+diabetes,fever,1211
+coronary arteriosclerosis,metastatic lesion,1185
+hypertensive disease,distress respiratory,1176
+coronary arteriosclerosis,asthenia,1163
+hypertensive disease,pleuritic pain,1154
+depressive disorder,unresponsiveness,1059
+depressive disorder,bleeding of vagina,1047
+depressive disorder,pain chest,1036
+depression mental,unresponsiveness,1033
+pneumonia,shortness of breath,1029
+pneumonia,night sweat,1029
+pneumonia,malaise,1029
+pneumonia,fever,1029
+pneumonia,cough,1029
+pneumonia,tachypnea,1029
+pneumonia,distress respiratory,1029
+pneumonia,wheezing,1029
+pneumonia,haemoptysis,1029
+pneumonia,rhonchus,1029
+pneumonia,chill,1029
+pneumonia,yellow sputum,1029
+pneumonia,pleuritic pain,1029
+pneumonia,green sputum,1029
+pneumonia,breath sounds decreased,1029
+pneumonia,non-productive cough,1029
+pneumonia,productive cough,1029
+pneumonia,rale,1029
+pneumonia,decreased translucency,1029
+depressive disorder,shortness of breath,1026
+infection urinary tract,hyponatremia,1023
+accidentÂ cerebrovascular,moody,986
+coronary heart disease,dysarthria,980
+hypercholesterolemia,polyuria,968
+failure heart congestive,shortness of breath,963
+failure heart congestive,jugular venous distention,963
+failure heart congestive,cough,963
+failure heart congestive,dyspnea,963
+failure heart congestive,orthopnea,963
+failure heart congestive,wheezing,963
+failure heart congestive,rale,963
+diabetes,lung nodule,962
+myocardial infarction,shortness of breath,953
+failure heart congestive,thicken,949
+asthma,productive cough,948
+myocardial infarction,tachypnea,947
+depression mental,sweat,942
+pneumonia,drowsiness,941
+pneumonia,heme positive,940
+asthma,fever,934
+depressive disorder,orthopnea,932
+accidentÂ cerebrovascular,unable to concentrate,928
+insufficiency renal,weepiness,922
+coronary heart disease,night sweat,918
+coronary heart disease,anorexia,915
+hypercholesterolemia,irritable mood,915
+depression mental,rale,910
+asthma,blackout,908
+depressive disorder,night sweat,908
+depression mental,poor dentition,907
+diabetes,sleepy,906
+coronary arteriosclerosis,wheezing,905
+depression mental,nausea and vomiting,895
+accidentÂ cerebrovascular,tremor,893
+accidentÂ cerebrovascular,numbness,885
+accidentÂ cerebrovascular,seizure,885
+accidentÂ cerebrovascular,unresponsiveness,885
+accidentÂ cerebrovascular,asthenia,885
+accidentÂ cerebrovascular,speech slurred,885
+accidentÂ cerebrovascular,hemiplegia,885
+accidentÂ cerebrovascular,dysarthria,885
+accidentÂ cerebrovascular,facial paresis,885
+hypercholesterolemia,syncope,884
+hypercholesterolemia,diarrhea,876
+depression mental,chest tightness,875
+infection,anorexia,868
+anxiety state,syncope,866
+coronary heart disease,nausea,862
+asthma,hypotension,860
+myocardial infarction,motor retardation,859
+depression mental,sleepy,856
+coronary arteriosclerosis,stiffness,856
+infection,non-productive cough,856
+pneumonia,pain,839
+asthma,chest tightness,837
+asthma,shortness of breath,835
+asthma,cough,835
+asthma,non-productive cough,835
+asthma,pleuritic pain,835
+coronary arteriosclerosis,tumor cell invasion,835
+asthma,symptom aggravating factors,835
+asthma,distress respiratory,835
+gastroesophageal reflux disease,haemoptysis,835
+asthma,wheezing,835
+depressive disorder,enuresis,834
+infection,asthenia,828
+pneumonia,lesion,826
+septicemia,dyspnea,823
+depression mental,haemorrhage,819
+failure heart congestive,haemoptysis,809
+coronary heart disease,sleeplessness,808
+coronary heart disease,rale,807
+primary malignant neoplasm,cough,801
+confusion,distress respiratory,800
+accidentÂ cerebrovascular,ache,795
+coronary arteriosclerosis,vomiting,795
+failure heart congestive,pruritus,794
+confusion,weight gain,792
+pneumonia,nausea,791
+infection urinary tract,hallucinations visual,791
+coronary heart disease,drowsiness,790
+depression mental,night sweat,789
+coronary arteriosclerosis,hemiplegia,787
+anemia,shortness of breath,781
+asthma,agitation,779
+depressive disorder,haemoptysis,779
+asthma,nausea,779
+infection urinary tract,patient non compliance,778
+accidentÂ cerebrovascular,feeling suicidal,776
+myocardial infarction,diarrhea,770
+insufficiency renal,feeling suicidal,760
+infection urinary tract,labored breathing,760
+myocardial infarction,pain chest,759
+myocardial infarction,st segment elevation,759
+myocardial infarction,chest discomfort,759
+myocardial infarction,st segment depression,759
+myocardial infarction,hypokinesia,759
+myocardial infarction,angina pectoris,759
+myocardial infarction,pressure chest,759
+myocardial infarction,t wave inverted,759
+myocardial infarction,orthopnea,759
+myocardial infarction,rale,759
+myocardial infarction,chest tightness,759
+myocardial infarction,presence of q wave,759
+myocardial infarction,bradycardia,759
+myocardial infarction,palpitation,759
+myocardial infarction,sweat,759
+myocardial infarction,syncope,759
+myocardial infarction,dyspnea,759
+myocardial infarction,sweating increased,759
+depressive disorder,syncope,758
+depression mental,facial paresis,748
+depressive disorder,asthenia,747
+depression mental,chill,747
+depression mental,angina pectoris,746
+insufficiency renal,hyperkalemia,744
+anemia,pain abdominal,741
+dementia,pain chest,730
+hiv infections,facial paresis,729
+infection urinary tract,decreased body weight,728
+hiv infections,cushingoid facies,728
+infection,cushingoid facies,726
+hypercholesterolemia,hallucinations auditory,725
+pneumonia,feeling suicidal,722
+failure heart congestive,palpitation,719
+dementia,feeling suicidal,718
+diabetes,cough,714
+depression mental,seizure,712
+acquiredÂ immuno-deficiency syndrome,feeling suicidal,712
+depression mental,hemianopsia homonymous,710
+infection urinary tract,nausea,708
+coronary heart disease,scratch marks,707
+anemia,transaminitis,707
+anxiety state,shortness of breath,707
+confusion,feeling suicidal,705
+systemic infection,focal seizures,705
+anxiety state,sweating increased,704
+depressive disorder,pain,701
+degenerativeÂ polyarthritis,urge incontinence,700
+chronic obstructive airway disease,intoxication,697
+infection urinary tract,irritable mood,695
+hypercholesterolemia,sweat,685
+hypercholesterolemia,t wave inverted,685
+hypercholesterolemia,worry,685
+hypercholesterolemia,nonsmoker,685
+hypercholesterolemia,dyspnea,685
+hypercholesterolemia,st segment depression,685
+hypercholesterolemia,shortness of breath,685
+hypercholesterolemia,chest discomfort,685
+hypercholesterolemia,bradycardia,685
+hypercholesterolemia,sweating increased,685
+hypercholesterolemia,numbness,685
+hypercholesterolemia,pain chest,685
+hypercholesterolemia,pain,685
+hypercholesterolemia,pressure chest,685
+chronic obstructive airway disease,pain chest,682
+hypercholesterolemia,sleeplessness,682
+malignant neoplasms,shortness of breath,680
+cellulitis,polyuria,680
+insufficiency renal,redness,678
+hiv infections,asthenia,678
+pneumonia,pruritus,676
+chronic obstructive airway disease,vomiting,674
+dementia,nervousness,673
+coronary heart disease,diarrhea,673
+asthma,vomiting,671
+primary malignant neoplasm,intoxication,670
+infection urinary tract,pain chest,669
+chronic obstructive airway disease,drowsiness,668
+confusion,haemorrhage,666
+cardiomyopathy,hypotension,663
+HIV,clonus,663
+myocardial infarction,asthenia,662
+anemia,energy increased,662
+asthma,polydypsia,662
+anemia,mental status changes,661
+hypercholesterolemia,palpitation,660
+pneumonia,hematuria,660
+dementia,agitation,660
+HIV,guaiac positive,660
+infection urinary tract,decreased translucency,659
+myocardial infarction,nausea,658
+gastroesophageal reflux disease,asthenia,657
+infection,productive cough,657
+insufficiency renal,impaired cognition,656
+carcinoma,decreased translucency,654
+pneumonia,constipation,654
+hypercholesterolemia,swelling,653
+infection urinary tract,redness,651
+coronary heart disease,breath sounds decreased,646
+pneumonia,unsteady gait,645
+carcinoma,palpitation,643
+HIV,bradycardia,640
+dementia,facial paresis,639
+anemia,feeling suicidal,636
+chronic kidney failure,chill,635
+chronic obstructive airway disease,redness,634
+infection,redness,633
+infection,abscess bacterial,630
+infection,swelling,630
+infection,hepatosplenomegaly,630
+infection,diarrhea,630
+infection,pain,630
+infection,cough,630
+infection,erythema,630
+infection,apyrexial,630
+infection,decreased translucency,630
+infection,fever,630
+infection,pruritus,630
+infection,chill,630
+anemia,cachexia,628
+hypercholesterolemia,hallucinations visual,628
+asthma,hallucinations visual,624
+insufficiency renal,muscle twitch,623
+confusion,unresponsiveness,619
+insufficiency renal,bradycardia,619
+asthma,pain abdominal,618
+hypothyroidism,retropulsion,616
+degenerativeÂ polyarthritis,rhonchus,615
+neoplasm,out of breath,614
+chronic obstructive airway disease,feeling suicidal,613
+bipolar disorder,tumor cell invasion,612
+anxiety state,angina pectoris,611
+hypercholesterolemia,unresponsiveness,611
+primary malignant neoplasm,unhappy,609
+insufficiency renal,stuffy nose,608
+chronic obstructive airway disease,seizure,607
+hypothyroidism,syncope,606
+insufficiency renal,pain abdominal,606
+coronary heart disease,difficulty passing urine,605
+chronic obstructive airway disease,pain abdominal,604
+hypothyroidism,pain chest,604
+primary malignant neoplasm,mental status changes,601
+hiv infections,jugular venous distention,600
+myocardial infarction,drowsiness,598
+infection urinary tract,asthenia,597
+infection urinary tract,lethargy,597
+infection urinary tract,hemodynamically stable,597
+infection urinary tract,distress respiratory,597
+infection urinary tract,difficulty passing urine,597
+infection urinary tract,consciousness clear,597
+infection urinary tract,mental status changes,597
+infection urinary tract,fever,597
+infection urinary tract,dysuria,597
+infection urinary tract,hematuria,597
+infection urinary tract,renal angle tenderness,597
+insufficiency renal,diarrhea,596
+chronic obstructive airway disease,chest discomfort,594
+carcinoma,pain chest,593
+acquiredÂ immuno-deficiency syndrome,leftÂ atrialÂ hypertrophy,593
+coronary heart disease,breech presentation,592
+anemia,distress respiratory,592
+hiv infections,angina pectoris,591
+neoplasm,hallucinations auditory,590
+failure heart congestive,feeling hopeless,589
+embolism pulmonary,fall,589
+bipolar disorder,decreased translucency,588
+anxiety state,green sputum,586
+confusion,malaise,584
+confusion,chill,584
+insufficiency renal,shortness of breath,583
+coronary arteriosclerosis,hypoxemia,583
+gastroesophageal reflux disease,pain chest,580
+chronic kidney failure,verbal auditory hallucinations,579
+anxiety state,dizziness,579
+myocardial infarction,Stahli's line,577
+dementia,chest discomfort,577
+anxiety state,dysarthria,577
+dementia,gurgle,577
+infection urinary tract,feeling hopeless,574
+confusion,guaiac positive,574
+confusion,hoarseness,573
+anemia,hemianopsia homonymous,572
+mitral valve insufficiency,pain chest,572
+infection urinary tract,st segment depression,571
+hypothyroidism,cough,570
+degenerativeÂ polyarthritis,wheezing,570
+primary malignant neoplasm,hematuria,569
+infection urinary tract,dysarthria,569
+coronary arteriosclerosis,numbness,568
+myocardial infarction,cough,568
+obesity,hydropneumothorax,567
+dementia,nausea,567
+dehydration,asthenia,566
+chronic kidney failure,syncope,564
+epilepsy,orthopnea,563
+accidentÂ cerebrovascular,burning sensation,562
+cellulitis,cough,561
+ulcer peptic,asthenia,560
+hiv infections,heavy legs,560
+neoplasm,claudication,560
+anxiety state,decreased body weight,559
+hypercholesterolemia,nausea,558
+insufficiency renal,flushing,558
+confusion,extreme exhaustion,558
+dementia,pain,557
+cellulitis,frothy sputum,557
+asthma,tachypnea,555
+confusion,asterixis,554
+anxiety state,swelling,554
+malignant neoplasms,pain abdominal,553
+chronic kidney failure,hypotension,552
+hypothyroidism,guaiac positive,552
+psychotic disorder,sweat,551
+anemia,mass of body structure,550
+dementia,hallucinations visual,549
+obesity,tachypnea,547
+primary malignant neoplasm,green sputum,546
+anemia,hyponatremia,544
+anemia,orthostasis,544
+anemia,arthralgia,544
+anemia,rhonchus,544
+anemia,swelling,544
+anemia,monoclonal,544
+anemia,asthenia,544
+anemia,pain,544
+anemia,guaiac positive,544
+anemia,chill,544
+anemia,pallor,544
+anemia,ecchymosis,544
+anemia,heme positive,544
+anemia,tumor cell invasion,544
+anemia,haemorrhage,544
+anemia,pain back,544
+anemia,dizziness,544
+anemia,fatigue,544
+hypothyroidism,hemodynamically stable,543
+exanthema,haemorrhage,543
+infection,egophony,541
+confusion,pruritus,540
+carcinoma,urge incontinence,538
+dementia,hydropneumothorax,537
+septicemia,distress respiratory,537
+septicemia,cushingoidÂ habitus,535
+cirrhosis,sleeplessness,534
+hypothyroidism,green sputum,534
+hiv infections,macerated skin,533
+systemic infection,sleeplessness,533
+hyperlipidemia,leftÂ atrialÂ hypertrophy,533
+dementia,palpitation,530
+anxiety state,vomiting,528
+insufficiency renal,qt interval prolonged,528
+infection urinary tract,posturing,528
+infection,monoclonal,526
+confusion,sinus rhythm,526
+embolism pulmonary,blackout,525
+chronic obstructive airway disease,wheezing,524
+chronic obstructive airway disease,dyspnea,524
+chronic obstructive airway disease,cough,524
+chronic obstructive airway disease,sputum purulent,524
+chronic obstructive airway disease,hypercapnia,524
+chronic obstructive airway disease,shortness of breath,524
+chronic obstructive airway disease,distress respiratory,524
+chronic obstructive airway disease,chest tightness,524
+chronic obstructive airway disease,patient non compliance,524
+chronic obstructive airway disease,hypoxemia,524
+anxiety state,impaired cognition,523
+degenerativeÂ polyarthritis,hyponatremia,521
+bipolar disorder,hypotension,521
+dementia,erythema,520
+asthma,pain chest,519
+exanthema,tremor resting,518
+hypothyroidism,asthenia,517
+dementia,shortness of breath,516
+neoplasm,fever,515
+chronic obstructive airway disease,sweat,514
+infection urinary tract,debilitation,514
+gastroesophageal reflux disease,energy increased,513
+anxiety state,sore to touch,512
+failure heart congestive,rigor - temperature-associated observation,511
+confusion,pain abdominal,508
+bipolar disorder,dyspnea on exertion,508
+infection urinary tract,wheezing,507
+anxiety state,fatigue,506
+carcinoma,nausea,506
+infection,vomiting,505
+dementia,unsteady gait,504
+dementia,unconscious state,504
+dementia,cough,504
+dementia,bedridden,504
+dementia,syncope,504
+dementia,rale,504
+dementia,rhonchus,504
+dementia,abdominal tenderness,504
+insufficiency renal,chill,504
+insufficiency renal,lethargy,504
+dementia,fever,504
+dementia,lethargy,504
+dementia,hallucinations auditory,504
+dementia,fall,504
+dementia,ecchymosis,504
+dementia,unresponsiveness,504
+anxiety state,hemodynamically stable,502
+deep vein thrombosis,vomiting,502
+malignant neoplasms,pain,501
+cellulitis,syncope,499
+hiv infections,fatigue,499
+chronic kidney failure,shortness of breath,499
+chronic obstructive airway disease,paresis,498
+primary malignant neoplasm,nightmare,498
+cellulitis,orthopnea,498
+confusion,,497
+infection urinary tract,apyrexial,497
+neoplasm,worry,497
+hypothyroidism,nausea,495
+systemic infection,loose associations,494
+septicemia,energy increased,493
+hiv infections,bradycardia,493
+gastroesophageal reflux disease,fall,491
+chronic kidney failure,spontaneous rupture of membranes,491
+hypothyroidism,speech slurred,490
+septicemia,sweating increased,487
+confusion,pain,486
+anemia,motor retardation,486
+hypertension pulmonary,worry,486
+dementia,tumor cell invasion,483
+malignant neoplasms,heartburn,482
+primary malignant neoplasm,hypokinesia,482
+primary malignant neoplasm,sweating increased,482
+anemia,non-productive cough,482
+hypothyroidism,shortness of breath,481
+cirrhosis,sweat,480
+cardiomyopathy,blackout,479
+anxiety state,stiffness,478
+carcinoma,hallucinations visual,478
+septicemia,worry,477
+depressive disorder,sore to touch,476
+hypothyroidism,weepiness,474
+hypothyroidism,rhonchus,474
+dehydration,pain chest,473
+myocardial infarction,unconscious state,471
+pneumonia,urinary hesitation,469
+degenerativeÂ polyarthritis,decreased body weight,469
+anemia,seizure,467
+sepsis (invertebrate),seizure,466
+deep vein thrombosis,hallucinations auditory,464
+paranoia,hallucinations auditory,463
+anemia,irritable mood,462
+asthma,diarrhea,461
+primary malignant neoplasm,sweat,461
+hiv infections,apyrexial,460
+malignant neoplasms,thicken,460
+hypercholesterolemia,emphysematous change,456
+sepsis (invertebrate),drowsiness,456
+bipolar disorder,orthopnea,455
+dementia,headache,455
+systemic infection,satiety early,455
+neoplasm,weepiness,454
+HIV,diarrhea,454
+dehydration,paraparesis,454
+acquiredÂ immuno-deficiency syndrome,asthenia,454
+insufficiency renal,tired,454
+chronic kidney failure,hematochezia,451
+degenerativeÂ polyarthritis,chest discomfort,451
+acquiredÂ immuno-deficiency syndrome,muscle hypotonia,451
+neoplasm,haemorrhage,450
+anxiety state,facial paresis,450
+chronic kidney failure,passed stones,449
+mitral valve insufficiency,hunger,449
+adenocarcinoma,fever,448
+primary malignant neoplasm,apyrexial,447
+sepsis (invertebrate),fever,447
+cardiomyopathy,poor feeding,447
+neoplasm,bedridden,447
+HIV,shortness of breath,447
+chronic kidney failure,asthenia,447
+insufficiency renal,rale,445
+insufficiency renal,asthenia,445
+insufficiency renal,orthopnea,445
+insufficiency renal,dyspnea,445
+insufficiency renal,ascites,445
+insufficiency renal,mental status changes,445
+insufficiency renal,hypotension,445
+insufficiency renal,apyrexial,445
+insufficiency renal,difficulty,445
+dementia,lesion,445
+insufficiency renal,hypokinesia,445
+insufficiency renal,breath sounds decreased,445
+insufficiency renal,swelling,445
+insufficiency renal,urgency ofÂ micturition,445
+insufficiency renal,guaiac positive,445
+anxiety state,breech presentation,444
+septicemia,facial paresis,442
+depressive disorder,systolic ejection murmur,442
+malignant neoplasms,myoclonus,442
+carcinoma,vomiting,437
+hiv infections,agitation,437
+cardiomyopathy,pruritus,436
+deep vein thrombosis,palpitation,435
+HIV,cachexia,435
+hypothyroidism,mood depressed,435
+primary malignant neoplasm,hemiplegia,434
+transient ischemic attack,nausea,434
+ischemia,blackout,434
+hypothyroidism,apyrexial,434
+carcinoma,irritable mood,434
+chronic kidney failure,hypocalcemia result,434
+bipolar disorder,mood depressed,433
+cellulitis,verbally abusive behavior,433
+incontinence,night sweat,432
+gastroesophageal reflux disease,pain abdominal,432
+HIV,nausea,432
+sepsis (invertebrate),pain,432
+cellulitis,vomiting,431
+adenocarcinoma,fatigue,431
+psychotic disorder,pain,430
+chronic kidney failure,cough,429
+cellulitis,pain chest,427
+anxiety state,diarrhea,426
+systemic infection,shortness of breath,425
+septicemia,hypoxemia,423
+gastroesophageal reflux disease,unable to concentrate,423
+deep vein thrombosis,night sweat,423
+degenerativeÂ polyarthritis,hallucinations auditory,423
+primary malignant neoplasm,dyspnea,423
+hyperlipidemia,productive cough,422
+anxiety state,chill,422
+dehydration,drowsiness,422
+cardiomyopathy,fever,421
+anemia,stool color yellow,421
+confusion,night sweat,420
+confusion,homelessness,419
+gastroesophageal reflux disease,loose associations,419
+acquiredÂ immuno-deficiency syndrome,night sweat,419
+embolism pulmonary,vomiting,418
+malignant neoplasms,vomiting,418
+gastroesophageal reflux disease,bradycardia,418
+HIV,tumor cell invasion,417
+insufficiency renal,lightheadedness,417
+ischemia,fever,417
+obesity,pain,417
+hepatitis C,stiffness,416
+neoplasm,snore,415
+embolism pulmonary,pain abdominal,415
+anxiety state,apyrexial,412
+primary malignant neoplasm,decreased translucency,412
+hyperlipidemia,hallucinations auditory,411
+hyperlipidemia,unresponsiveness,411
+paranoia,decreased body weight,409
+hiv infections,blackout,409
+confusion,fall,408
+confusion,asthenia,408
+confusion,muscle twitch,408
+confusion,speech slurred,408
+confusion,sleepy,408
+confusion,agitation,408
+confusion,unconscious state,408
+confusion,enuresis,408
+confusion,lethargy,408
+confusion,seizure,408
+confusion,dizziness,408
+confusion,consciousness clear,408
+confusion,mental status changes,408
+confusion,tremor,408
+confusion,hyponatremia,408
+confusion,lightheadedness,408
+confusion,dysarthria,408
+confusion,headache,408
+anxiety state,sweat,408
+gastroesophageal reflux disease,cardiomegaly,407
+acquiredÂ immuno-deficiency syndrome,numbness,407
+pancreatitis,monoclonal,406
+degenerativeÂ polyarthritis,general discomfort,405
+degenerativeÂ polyarthritis,polydypsia,405
+degenerativeÂ polyarthritis,drowsiness,405
+degenerativeÂ polyarthritis,non-productive cough,405
+hernia,weight gain,405
+degenerativeÂ polyarthritis,unsteady gait,405
+degenerativeÂ polyarthritis,asthenia,405
+degenerativeÂ polyarthritis,nonsmoker,405
+degenerativeÂ polyarthritis,food intolerance,405
+degenerativeÂ polyarthritis,numbness of hand,405
+degenerativeÂ polyarthritis,stiffness,405
+degenerativeÂ polyarthritis,pain,405
+cardiomyopathy,angina pectoris,405
+deep vein thrombosis,productive cough,405
+confusion,cough,405
+hypercholesterolemia,thicken,405
+anxiety state,breath sounds decreased,403
+insufficiency renal,nausea,403
+edema pulmonary,lesion,401
+cirrhosis,mood depressed,400
+sepsis (invertebrate),asthenia,399
+gastroesophageal reflux disease,urge incontinence,399
+hypothyroidism,fall,398
+hypothyroidism,difficulty,398
+hypothyroidism,unsteady gait,398
+hypothyroidism,numbness,398
+hypothyroidism,fatigue,398
+hypothyroidism,weight gain,398
+hypothyroidism,nightmare,398
+hypothyroidism,hypotension,398
+hypothyroidism,polyuria,398
+hypothyroidism,agitation,398
+hypothyroidism,tired,398
+hypothyroidism,motor retardation,398
+hypothyroidism,mental status changes,398
+HIV,pruritus,398
+hypothyroidism,mass of body structure,398
+hypothyroidism,hyponatremia,398
+hypothyroidism,sleepy,398
+hypothyroidism,drowsiness,398
+dementia,hypotension,398
+hypothyroidism,vomiting,398
+hypothyroidism,prostatism,398
+systemic infection,abscess bacterial,397
+neoplasm,shortness of breath,395
+psychotic disorder,shortness of breath,395
+schizophrenia,hemodynamically stable,394
+dehydration,seizure,393
+transient ischemic attack,chill,392
+anxiety state,nausea,391
+anxiety state,agitation,390
+anxiety state,patient non compliance,390
+anxiety state,difficulty,390
+anxiety state,irritable mood,390
+anxiety state,hot flush,390
+anxiety state,palpitation,390
+anxiety state,hallucinations auditory,390
+anxiety state,mood depressed,390
+anxiety state,suicidal,390
+anxiety state,sleeplessness,390
+anxiety state,feeling hopeless,390
+anxiety state,feeling suicidal,390
+anxiety state,tremor,390
+anxiety state,pain,390
+anxiety state,consciousness clear,390
+anxiety state,pain chest,390
+anxiety state,weepiness,390
+anxiety state,worry,390
+anxiety state,formication,390
+anxiety state,hallucinations visual,390
+anxiety state,nervousness,390
+anxiety state,has religious belief,390
+anxiety state,blackout,390
+anxiety state,nightmare,390
+cellulitis,sore to touch,389
+deep vein thrombosis,sleepy,389
+malignant neoplasms,tachypnea,388
+psychotic disorder,diarrhea,388
+degenerativeÂ polyarthritis,intoxication,388
+hypothyroidism,distress respiratory,387
+neoplasm,hyperacusis,386
+insufficiency renal,erythema,386
+gastroesophageal reflux disease,rale,385
+psychotic disorder,facial paresis,385
+sepsis (invertebrate),palpitation,384
+anemia,hirsutism,383
+bipolar disorder,oliguria,382
+insufficiency renal,metastatic lesion,382
+cirrhosis,achalasia,381
+hernia,cough,380
+gastroesophageal reflux disease,hallucinations auditory,380
+hyperlipidemia,dysarthria,379
+malignant neoplasm of prostate,dizziness,378
+arthritis,sleepy,377
+hypothyroidism,monoclonal,377
+epilepsy,shortness of breath,377
+anxiety state,nonsmoker,377
+epilepsy,muscle twitch,377
+confusion,"hypothermia, natural",376
+bipolar disorder,satiety early,376
+dementia,feeling hopeless,375
+septicemia,vomiting,375
+obesity,anorexia,374
+hypothyroidism,hemiplegia,373
+cardiomyopathy,asthenia,373
+dehydration,hypotension,372
+cardiomyopathy,bradycardia,372
+dementia,jugular venous distention,371
+HIV,chill,371
+degenerativeÂ polyarthritis,unresponsiveness,370
+gastroesophageal reflux disease,fatigue,370
+sepsis (invertebrate),patient non compliance,370
+septicemia,sleeplessness,370
+cardiomyopathy,nausea,369
+psychotic disorder,dizziness,368
+anemia,hydropneumothorax,368
+hepatitis C,cough,368
+confusion,hypotension,368
+hypothyroidism,suicidal,367
+neoplasm,transaminitis,366
+bipolar disorder,muscle twitch,366
+malignant neoplasms,dizziness,366
+ischemia,hallucinations auditory,365
+arthritis,arthralgia,365
+obesity,vomiting,365
+psychotic disorder,pain chest,365
+embolism pulmonary,metastatic lesion,365
+dehydration,bedridden,364
+hepatitis,feeling hopeless,363
+cirrhosis,vertigo,362
+systemic infection,bedridden,361
+embolism pulmonary,pleuritic pain,360
+carcinoma,hypercapnia,360
+systemic infection,ecchymosis,359
+degenerativeÂ polyarthritis,constipation,359
+hypercholesterolemia,decreased translucency,358
+epilepsy,unsteady gait,356
+obesity,unresponsiveness,356
+carcinoma prostate,vomiting,356
+systemic infection,hemiplegia,355
+chronic kidney failure,dyspnea on exertion,355
+degenerativeÂ polyarthritis,excruciating pain,355
+neoplasm,sweat,355
+gastritis,irritable mood,355
+malignant neoplasms,hoarseness,354
+primary malignant neoplasm,emphysematous change,354
+primary malignant neoplasm,cushingoid facies,354
+primary malignant neoplasm,lesion,354
+bipolar disorder,urinary hesitation,354
+primary malignant neoplasm,cushingoidÂ habitus,354
+primary malignant neoplasm,ascites,354
+malignant neoplasms,ascites,354
+primary malignant neoplasm,pain,354
+malignant neoplasms,hematuria,354
+malignant neoplasms,cushingoid facies,354
+malignant neoplasms,cushingoidÂ habitus,354
+primary malignant neoplasm,thicken,354
+primary malignant neoplasm,hoarseness,354
+primary malignant neoplasm,decreased body weight,354
+psychotic disorder,bedridden,354
+systemic infection,splenomegaly,354
+malignant neoplasms,lesion,354
+malignant neoplasms,decreased body weight,354
+malignant neoplasms,emphysematous change,354
+primary malignant neoplasm,mass of body structure,354
+malignant neoplasms,mass of body structure,354
+diverticulitis,dyspnea on exertion,352
+anxiety state,Stahli's line,352
+benign prostatic hypertrophy,anorexia,352
+kidney failure acute,mood depressed,352
+dementia,enuresis,351
+ischemia,decreased translucency,351
+coronary heart disease,sore to touch,351
+hiv infections,decreased body weight,350
+hiv infections,,350
+hiv infections,cough,350
+hiv infections,spontaneous rupture of membranes,350
+gastroesophageal reflux disease,agitation,350
+hiv infections,pleuritic pain,350
+hiv infections,diarrhea,350
+hiv infections,chill,350
+HIV,muscle hypotonia,350
+hiv infections,muscle hypotonia,350
+acquiredÂ immuno-deficiency syndrome,,350
+acquiredÂ immuno-deficiency syndrome,cough,350
+hiv infections,productive cough,350
+acquiredÂ immuno-deficiency syndrome,pleuritic pain,350
+acquiredÂ immuno-deficiency syndrome,diarrhea,350
+acquiredÂ immuno-deficiency syndrome,chill,350
+acquiredÂ immuno-deficiency syndrome,decreased body weight,350
+HIV,productive cough,350
+hiv infections,fever,350
+HIV,feeling suicidal,350
+HIV,cough,350
+hiv infections,hypotonic,350
+hiv infections,feeling suicidal,350
+HIV,fever,350
+HIV,spontaneous rupture of membranes,350
+HIV,night sweat,350
+HIV,hypotonic,350
+hiv infections,night sweat,350
+HIV,decreased body weight,350
+HIV,,350
+HIV,pleuritic pain,350
+acquiredÂ immuno-deficiency syndrome,patient non compliance,350
+acquiredÂ immuno-deficiency syndrome,tachypnea,350
+HIV,patient non compliance,350
+acquiredÂ immuno-deficiency syndrome,spontaneous rupture of membranes,350
+acquiredÂ immuno-deficiency syndrome,fever,350
+HIV,tachypnea,350
+acquiredÂ immuno-deficiency syndrome,hypotonic,350
+acquiredÂ immuno-deficiency syndrome,productive cough,350
+hiv infections,tachypnea,350
+hiv infections,patient non compliance,350
+benign prostatic hypertrophy,patient non compliance,349
+anxiety state,monoclonal,349
+anxiety state,ascites,348
+transient ischemic attack,projectile vomiting,348
+exanthema,consciousness clear,348
+dementia,hunger,347
+kidney failure acute,asthenia,345
+exanthema,rale,345
+carcinoma,abdominal tenderness,344
+neoplasm,blackout,344
+cirrhosis,headache,344
+HIV,hoarseness,344
+exanthema,night sweat,342
+cellulitis,chill,341
+cellulitis,hypesthesia,341
+cellulitis,patient non compliance,341
+cellulitis,pruritus,341
+cellulitis,hyperacusis,341
+cellulitis,scratch marks,341
+cellulitis,pain,341
+cellulitis,erythema,341
+ischemia,shortness of breath,341
+dehydration,shortness of breath,341
+cellulitis,swelling,341
+cellulitis,abscess bacterial,341
+cellulitis,fever,341
+cellulitis,redness,341
+bipolar disorder,lethargy,340
+ischemia,facial paresis,339
+peripheral vascular disease,sore to touch,339
+bipolar disorder,productive cough,339
+osteoporosis,mass of body structure,339
+cirrhosis,pain,338
+paroxysmalÂ dyspnea,achalasia,338
+psychotic disorder,fever,337
+gastroesophageal reflux disease,redness,336
+hemiparesis,pleuritic pain,335
+chronic kidney failure,sweating increased,335
+cardiomyopathy,mental status changes,334
+hepatitis C,breath sounds decreased,334
+hepatitis B,diarrhea,333
+bronchitis,night sweat,333
+peripheral vascular disease,chest tightness,331
+bipolar disorder,haemorrhage,331
+PneumocystisÂ cariniiÂ pneumonia,feeling hopeless,331
+peripheral vascular disease,clonus,331
+neoplasm,dyspnea,331
+deep vein thrombosis,sweating increased,330
+gastroesophageal reflux disease,cushingoidÂ habitus,330
+ulcer peptic,paresthesia,330
+HIV,pain chest,329
+colitis,chill,329
+obesity,photophobia,328
+psychotic disorder,neck stiffness,328
+dehydration,apyrexial,327
+cellulitis,fremitus,327
+glaucoma,hematuria,326
+ulcer peptic,dyspnea,326
+acquiredÂ immuno-deficiency syndrome,constipation,326
+gastroesophageal reflux disease,burning sensation,325
+gastroesophageal reflux disease,pain,325
+gastroesophageal reflux disease,heartburn,325
+gastroesophageal reflux disease,sweat,325
+gastroesophageal reflux disease,hyponatremia,325
+bipolar disorder,cyanosis,325
+benign prostatic hypertrophy,diarrhea,325
+gastroesophageal reflux disease,sweating increased,325
+bronchitis,verbal auditory hallucinations,325
+gastroesophageal reflux disease,satiety early,325
+gastroesophageal reflux disease,constipation,325
+gastroesophageal reflux disease,throbbing sensation quality,325
+gastroesophageal reflux disease,sensory discomfort,325
+gastroesophageal reflux disease,palpitation,325
+gastroesophageal reflux disease,nausea,325
+gastroesophageal reflux disease,presence of q wave,325
+gastroesophageal reflux disease,chest tightness,325
+gastroesophageal reflux disease,general discomfort,325
+anxiety state,weight gain,324
+deep vein thrombosis,agitation,324
+obesity,tumor cell invasion,324
+dehydration,decompensation,324
+cirrhosis,urinary hesitation,323
+gastroesophageal reflux disease,hypotension,323
+carcinoma,tumor cell invasion,322
+diverticulitis,pain chest,322
+mitral valve insufficiency,haemorrhage,322
+peripheral vascular disease,headache,322
+gastroesophageal reflux disease,polymyalgia,322
+carcinoma,wheezing,320
+psychotic disorder,jugular venous distention,320
+epilepsy,dyspnea,319
+septicemia,apyrexial,319
+embolism pulmonary,dyspnea,319
+upper respiratory infection,labored breathing,319
+chronic kidney failure,sore to touch,319
+adenocarcinoma,hypotension,318
+dehydration,dyspnea,318
+pancreatitis,hemodynamically stable,317
+adenocarcinoma,worry,316
+edema pulmonary,general discomfort,316
+gastroesophageal reflux disease,shortness of breath,315
+cardiomyopathy,fall,315
+bronchitis,yellow sputum,315
+acquiredÂ immuno-deficiency syndrome,polyuria,314
+ischemia,worry,314
+carcinoma prostate,sweat,314
+cellulitis,qt interval prolonged,313
+hemiparesis,hyperkalemia,313
+deep vein thrombosis,hypotension,313
+embolism pulmonary,clonus,312
+malignant neoplasms,sweating increased,312
+paroxysmalÂ dyspnea,indifferent mood,312
+pancreatitis,feeling suicidal,312
+septicemia,fever,311
+septicemia,rale,311
+sepsis (invertebrate),breech presentation,311
+sepsis (invertebrate),unresponsiveness,311
+sepsis (invertebrate),cyanosis,311
+systemic infection,fever,311
+septicemia,unresponsiveness,311
+septicemia,lethargy,311
+septicemia,haemorrhage,311
+systemic infection,apyrexial,311
+systemic infection,rale,311
+sepsis (invertebrate),hypotension,311
+sepsis (invertebrate),distress respiratory,311
+sepsis (invertebrate),tachypnea,311
+systemic infection,spontaneous rupture of membranes,311
+systemic infection,cyanosis,311
+systemic infection,tachypnea,311
+systemic infection,hypotension,311
+systemic infection,distress respiratory,311
+systemic infection,unresponsiveness,311
+systemic infection,haemorrhage,311
+sepsis (invertebrate),spontaneous rupture of membranes,311
+systemic infection,chill,311
+systemic infection,bradycardia,311
+systemic infection,lethargy,311
+systemic infection,breech presentation,311
+septicemia,tachypnea,311
+septicemia,hypotension,311
+sepsis (invertebrate),lethargy,311
+septicemia,chill,311
+sepsis (invertebrate),chill,311
+septicemia,breech presentation,311
+septicemia,bradycardia,311
+septicemia,cyanosis,311
+septicemia,spontaneous rupture of membranes,311
+sepsis (invertebrate),bradycardia,311
+sepsis (invertebrate),rale,311
+sepsis (invertebrate),haemorrhage,311
+sepsis (invertebrate),apyrexial,311
+diverticulitis,formication,310
+deep vein thrombosis,clonus,310
+deep vein thrombosis,redness,310
+anxiety state,night sweat,310
+deep vein thrombosis,shortness of breath,310
+deep vein thrombosis,pain in lower limb,310
+deep vein thrombosis,ecchymosis,310
+deep vein thrombosis,pain,310
+deep vein thrombosis,erythema,310
+deep vein thrombosis,cardiomegaly,310
+deep vein thrombosis,rale,310
+bacteremia,unsteady gait,310
+deep vein thrombosis,swelling,310
+deep vein thrombosis,non-productive cough,310
+psychotic disorder,scratch marks,309
+sepsis (invertebrate),vertigo,308
+systemic infection,sweating increased,307
+lymphatic diseases,hemiplegia,306
+hemiparesis,decreased body weight,306
+psychotic disorder,dizzy spells,306
+septicemia,dizziness,306
+adenocarcinoma,hypesthesia,306
+hepatitis C,asterixis,305
+exanthema,nausea,305
+obesity,pain abdominal,304
+upper respiratory infection,pressure chest,303
+cellulitis,speech slurred,303
+incontinence,shortness of breath,302
+neoplasm,speech slurred,301
+sepsis (invertebrate),heavy legs,301
+diverticulitis,guaiac positive,301
+gastroesophageal reflux disease,dysarthria,301
+paranoia,mental status changes,301
+psychotic disorder,chill,300
+upper respiratory infection,abscess bacterial,300
+septicemia,nausea,300
+malignant neoplasm of prostate,agitation,300
+hyperlipidemia,alcoholic withdrawal symptoms,300
+bronchitis,feeling suicidal,299
+hyperlipidemia,non-productive cough,299
+upper respiratory infection,rale,299
+hiv infections,dyspareunia,299
+bipolar disorder,angina pectoris,298
+bronchitis,abdominal tenderness,298
+hernia,asthenia,298
+psychotic disorder,breath sounds decreased,298
+dehydration,unwell,297
+epilepsy,fall,297
+benign prostatic hypertrophy,sweating increased,297
+dehydration,syncope,297
+dehydration,sensory discomfort,297
+dehydration,anorexia,297
+dehydration,mental status changes,297
+neoplasm,lesion,297
+dehydration,blackout,297
+neoplasm,mass of body structure,297
+neoplasm,night sweat,297
+neoplasm,tumor cell invasion,297
+neoplasm,pain chest,297
+neoplasm,hematuria,297
+dehydration,fever,297
+dehydration,nausea,297
+dehydration,lightheadedness,297
+dehydration,lethargy,297
+neoplasm,metastatic lesion,297
+neoplasm,pain,297
+neoplasm,anosmia,297
+neoplasm,food intolerance,297
+neoplasm,decreased body weight,297
+neoplasm,thicken,297
+dehydration,history of - blackout,297
+dehydration,dizziness,297
+dehydration,diarrhea,297
+dehydration,vomiting,297
+neoplasm,headache,297
+neoplasm,pain abdominal,297
+neoplasm,satiety early,297
+neoplasm,hemianopsia homonymous,297
+embolism pulmonary,decreased translucency,296
+deep vein thrombosis,distress respiratory,295
+suicide attempt,blackout,295
+malignant neoplasm of prostate,hypesthesia,295
+embolism pulmonary,cicatrisation,294
+bipolar disorder,pain abdominal,294
+exanthema,wheezing,294
+embolism pulmonary,productive cough,294
+embolism pulmonary,yellow sputum,294
+embolism pulmonary,neck stiffness,294
+embolism pulmonary,hematocrit decreased,294
+embolism pulmonary,non-productive cough,294
+embolism pulmonary,apyrexial,294
+embolism pulmonary,wheezing,294
+incontinence,rhd positive,294
+embolism pulmonary,pain chest,294
+embolism pulmonary,unresponsiveness,294
+embolism pulmonary,distress respiratory,294
+embolism pulmonary,hypoxemia,294
+embolism pulmonary,shortness of breath,294
+embolism pulmonary,tachypnea,294
+carcinoma prostate,jugular venous distention,294
+hemiparesis,headache,293
+hyperlipidemia,suicidal,293
+carcinoma prostate,hypotonic,292
+malignant neoplasm of prostate,haemorrhage,292
+osteoporosis,hemodynamically stable,292
+bronchitis,weight gain,292
+cellulitis,painful swallowing,291
+bipolar disorder,blackout,291
+epilepsy,unresponsiveness,290
+bipolar disorder,gag,290
+epilepsy,tremor,290
+stenosis aortic valve,pallor,290
+incontinence,hypokinesia,290
+psychotic disorder,dyspnea,290
+sepsis (invertebrate),ascites,290
+epilepsy,seizure,290
+epilepsy,gurgle,290
+epilepsy,myoclonus,290
+epilepsy,hemiplegia,290
+epilepsy,sleepy,290
+epilepsy,hypometabolism,290
+epilepsy,aura,290
+embolism pulmonary,headache,290
+epilepsy,wheelchair bound,290
+epilepsy,lethargy,290
+epilepsy,drowsiness,290
+deep vein thrombosis,tremor,289
+upper respiratory infection,agitation,288
+adenocarcinoma,apyrexial,287
+bacteremia,hypotension,287
+transient ischemic attack,metastatic lesion,286
+edema pulmonary,enuresis,286
+osteomyelitis,t wave inverted,285
+bipolar disorder,pruritus,285
+dehydration,abdominal tenderness,285
+malignant neoplasm of breast,fever,284
+osteoporosis,hypotonic,284
+systemic infection,nausea,284
+cardiomyopathy,weight gain,283
+gastroesophageal reflux disease,dyspnea,283
+cardiomyopathy,fatigue,283
+cardiomyopathy,rale,283
+cardiomyopathy,patient non compliance,283
+cardiomyopathy,pain chest,283
+cardiomyopathy,yellow sputum,283
+cardiomyopathy,syncope,283
+cardiomyopathy,dyspnea on exertion,283
+cardiomyopathy,dyspnea,283
+cardiomyopathy,shortness of breath,283
+cardiomyopathy,leftÂ atrialÂ hypertrophy,283
+cardiomyopathy,palpitation,283
+cardiomyopathy,jugular venous distention,283
+cardiomyopathy,hypokinesia,283
+cardiomyopathy,orthopnea,283
+carcinoma prostate,sleepy,282
+primary malignant neoplasm,rale,282
+psychotic disorder,nausea,282
+hepatitis C,hyperkalemia,282
+cardiomyopathy,sweat,282
+osteoporosis,drowsiness,282
+cellulitis,renal angle tenderness,281
+osteoporosis,hyperkalemia,281
+hyperlipidemia,painful swallowing,281
+sepsis (invertebrate),blackout,281
+osteoporosis,headache,281
+chronic kidney failure,guaiac positive,280
+chronic kidney failure,swelling,280
+chronic kidney failure,rale,280
+bacteremia,pain,280
+chronic kidney failure,chest tightness,280
+chronic kidney failure,malaise,280
+schizophrenia,sleeplessness,280
+chronic kidney failure,hyperkalemia,280
+hypoglycemia,haemoptysis,280
+chronic kidney failure,pleuritic pain,280
+chronic kidney failure,unresponsiveness,280
+chronic kidney failure,catatonia,280
+chronic kidney failure,apyrexial,280
+chronic kidney failure,vomiting,280
+chronic kidney failure,yellow sputum,280
+chronic kidney failure,fever,280
+chronic kidney failure,mental status changes,280
+chronic kidney failure,jugular venous distention,280
+chronic kidney failure,oliguria,280
+chronic kidney failure,nausea,280
+chronic kidney failure,diarrhea,280
+chronic kidney failure,orthopnea,280
+benign prostatic hypertrophy,intoxication,279
+neoplasm,hyponatremia,279
+hepatitis C,irritable mood,279
+transient ischemic attack,abdominal tenderness,278
+carcinoma breast,verbal auditory hallucinations,278
+mitral valve insufficiency,vertigo,278
+paroxysmalÂ dyspnea,sleepy,277
+embolism pulmonary,hypotension,277
+deep vein thrombosis,mass of body structure,277
+ischemia,satiety early,276
+carcinoma,general unsteadiness,276
+carcinoma prostate,guaiac positive,275
+embolism pulmonary,orthostasis,274
+systemic infection,paresthesia,274
+malignant neoplasm of prostate,splenomegaly,274
+osteoporosis,abdominal tenderness,273
+deep vein thrombosis,hyperkalemia,273
+transient ischemic attack,suicidal,273
+chronic kidney failure,unsteady gait,271
+thrombocytopaenia,breath sounds decreased,271
+carcinoma,gravida 0,269
+carcinoma,diarrhea,269
+carcinoma,lung nodule,269
+carcinoma,heartburn,269
+carcinoma,sore to touch,269
+schizophrenia,nightmare,269
+carcinoma,thicken,269
+carcinoma,hoarseness,269
+carcinoma,decreased body weight,269
+carcinoma,metastatic lesion,269
+carcinoma,general discomfort,269
+carcinoma,non-productive cough,269
+carcinoma,constipation,269
+carcinoma,unhappy,269
+carcinoma,paresthesia,269
+hepatitis C,chill,269
+hepatitis C,hallucinations auditory,269
+hepatitis C,patient non compliance,269
+hepatitis C,heavy feeling,269
+hepatitis C,ache,269
+hepatitis C,macerated skin,269
+hernia,feeling hopeless,269
+carcinoma,lesion,269
+carcinoma,pain,269
+carcinoma,mass of body structure,269
+hepatitis C,distended abdomen,269
+hepatitis C,ascites,269
+hepatitis C,feeling suicidal,269
+embolism pulmonary,irritable mood,269
+peripheral vascular disease,sinus rhythm,268
+peripheral vascular disease,labored breathing,268
+peripheral vascular disease,unresponsiveness,268
+peripheral vascular disease,angina pectoris,268
+incontinence,sweating increased,268
+peripheral vascular disease,sleepy,268
+peripheral vascular disease,anorexia,268
+peripheral vascular disease,rest pain,268
+peripheral vascular disease,shortness of breath,268
+peripheral vascular disease,hyperkalemia,268
+carcinoma,egophony,268
+obesity,fever,268
+peripheral vascular disease,dyspnea,268
+psychotic disorder,hallucinations auditory,267
+psychotic disorder,suicidal,267
+psychotic disorder,verbal auditory hallucinations,267
+hemiparesis,shortness of breath,267
+psychotic disorder,behavior hyperactive,267
+psychotic disorder,tremor,267
+psychotic disorder,feeling suicidal,267
+psychotic disorder,hallucinations visual,267
+psychotic disorder,energy increased,267
+psychotic disorder,intoxication,267
+psychotic disorder,worry,267
+psychotic disorder,homelessness,267
+psychotic disorder,withdraw,267
+psychotic disorder,weepiness,267
+psychotic disorder,irritable mood,267
+psychotic disorder,feeling hopeless,267
+psychotic disorder,agitation,267
+psychotic disorder,blackout,267
+psychotic disorder,mood depressed,267
+paranoia,dyspnea on exertion,267
+psychotic disorder,consciousness clear,267
+psychotic disorder,sleeplessness,267
+psychotic disorder,catatonia,267
+psychotic disorder,nightmare,267
+psychotic disorder,terrify,267
+psychotic disorder,motor retardation,267
+psychotic disorder,patient non compliance,267
+upper respiratory infection,nausea,266
+cirrhosis,sore to touch,266
+sepsis (invertebrate),withdraw,266
+hepatitis C,homelessness,266
+bipolar disorder,disturbed family,265
+bacteremia,pain abdominal,265
+arthritis,anorexia,265
+malignant neoplasm of prostate,anorexia,264
+bronchitis,wheezing,264
+bacteremia,dysarthria,264
+pancreatitis,non-productive cough,264
+kidney failure acute,stiffness,263
+hemiparesis,tired,263
+carcinoma prostate,shortness of breath,263
+hyperlipidemia,mass in breast,262
+ischemia,pain abdominal,262
+carcinoma,sweating increased,262
+hernia,chill,262
+psychotic disorder,orthopnea,262
+bronchitis,difficulty,262
+ischemia,apyrexial,261
+ulcer peptic,agitation,261
+peripheral vascular disease,unsteady gait,261
+lymphatic diseases,abscess bacterial,261
+lymphatic diseases,apyrexial,261
+mitral valve insufficiency,muscle hypotonia,260
+edema pulmonary,Stahli's line,260
+diverticulitis,cicatrisation,259
+thrombocytopaenia,blackout,259
+upper respiratory infection,lethargy,259
+edema pulmonary,hyponatremia,259
+parkinson disease,neologism,259
+deep vein thrombosis,projectile vomiting,258
+chronic kidney failure,bowel sounds decreased,257
+kidney failure acute,fatigue,257
+obesity,cachexia,257
+carcinoma,fever,257
+paroxysmalÂ dyspnea,speech slurred,257
+bronchitis,cyanosis,256
+transient ischemic attack,low back pain,256
+epilepsy,distress respiratory,256
+osteoporosis,sweat,256
+bronchitis,superimposition,255
+diverticulitis,urgency ofÂ micturition,255
+hemiparesis,sleepy,255
+thrombocytopaenia,night sweat,255
+carcinoma prostate,paresis,254
+lymphatic diseases,non-productive cough,254
+hernia,mood depressed,254
+bipolar disorder,mass of body structure,253
+chronic kidney failure,wheelchair bound,253
+carcinoma,dullness,253
+bipolar disorder,nervousness,253
+hepatitis C,seizure,252
+bronchitis,shortness of breath,252
+psychotic disorder,mental status changes,252
+adenocarcinoma,pain chest,252
+epilepsy,worry,252
+obesity,pruritus,252
+encephalopathy,mass of body structure,252
+bronchitis,diarrhea,250
+hypertension pulmonary,nightmare,250
+diverticulosis,myalgia,250
+osteomyelitis,vertigo,249
+cirrhosis,leftÂ atrialÂ hypertrophy,249
+ulcer peptic,productive cough,249
+gastroesophageal reflux disease,angina pectoris,249
+malignant neoplasm of breast,pneumatouria,249
+osteoporosis,feces in rectum,248
+failure kidney,tinnitus,248
+failure kidney,rale,248
+ischemia,oliguria,248
+hyperlipidemia,giddy mood,247
+hyperlipidemia,angina pectoris,247
+hyperlipidemia,dizziness,247
+hyperlipidemia,sweat,247
+hyperlipidemia,photopsia,247
+hyperlipidemia,presence of q wave,247
+hyperlipidemia,sweating increased,247
+hyperlipidemia,palpitation,247
+hyperlipidemia,hypokinesia,247
+hyperlipidemia,hemiplegia,247
+hyperlipidemia,shortness of breath,247
+peripheral vascular disease,formication,247
+hyperlipidemia,pain chest,247
+peripheral vascular disease,green sputum,247
+hyperlipidemia,chest discomfort,247
+hemiparesis,transsexual,246
+neoplasm,feeling hopeless,246
+hemiparesis,haemoptysis,246
+transient ischemic attack,thicken,246
+osteoporosis,fatigue,246
+lymphatic diseases,diarrhea,246
+hepatitis,abdomen acute,245
+arthritis,lethargy,245
+chronic kidney failure,frail,245
+failure kidney,renal angle tenderness,245
+schizophrenia,tachypnea,245
+cirrhosis,mass of body structure,245
+diverticulitis,tachypnea,244
+failure kidney,wheezing,244
+lymphatic diseases,mass of body structure,243
+adenocarcinoma,dizziness,243
+hyperlipidemia,egophony,243
+schizophrenia,photophobia,242
+bipolar disorder,energy increased,241
+bipolar disorder,behavior hyperactive,241
+bipolar disorder,catatonia,241
+bipolar disorder,feeling suicidal,241
+bipolar disorder,intoxication,241
+bipolar disorder,hallucinations auditory,241
+bipolar disorder,verbal auditory hallucinations,241
+bipolar disorder,mydriasis,241
+bipolar disorder,weepiness,241
+bipolar disorder,extrapyramidal sign,241
+bipolar disorder,loose associations,241
+bipolar disorder,irritable mood,241
+bipolar disorder,agitation,241
+bipolar disorder,sleeplessness,241
+bipolar disorder,worry,241
+bipolar disorder,feeling hopeless,241
+bipolar disorder,hallucinations visual,241
+bipolar disorder,difficulty,241
+bipolar disorder,suicidal,241
+psychotic disorder,photophobia,241
+bronchitis,sleeplessness,241
+bipolar disorder,motor retardation,241
+bipolar disorder,homelessness,241
+bipolar disorder,tremor,241
+bipolar disorder,exhaustion,241
+bipolar disorder,has religious belief,241
+bipolar disorder,hyperhidrosis disorder,241
+bipolar disorder,hypersomnia,241
+hernia,pain,240
+acquiredÂ immuno-deficiency syndrome,unconscious state,240
+psychotic disorder,polydypsia,240
+cellulitis,dyspnea on exertion,239
+adenocarcinoma,pleuritic pain,239
+osteomyelitis,asthenia,239
+sepsis (invertebrate),poor dentition,238
+hepatitis,snore,238
+hemiparesis,cushingoidÂ habitus,237
+arthritis,metastatic lesion,236
+hiv infections,chest discomfort,236
+gastritis,blackout,236
+bronchitis,chest tightness,236
+schizophrenia,adverse reaction,236
+diverticulitis,ascites,235
+paroxysmalÂ dyspnea,adverse effect,235
+adenocarcinoma,productive cough,234
+arthritis,fever,234
+malignant neoplasm of breast,hallucinations visual,233
+psychotic disorder,bradycardia,232
+hypoglycemia,chill,232
+adenocarcinoma,passed stones,232
+paroxysmalÂ dyspnea,tremor,232
+benign prostatic hypertrophy,orthopnea,231
+peripheral vascular disease,nasal discharge present,231
+kidney failure acute,hunger,230
+benign prostatic hypertrophy,hematuria,230
+carcinoma prostate,debilitation,230
+epilepsy,pruritus,230
+malignant neoplasm of prostate,vomiting,230
+ischemia,cushingoidÂ habitus,230
+edema pulmonary,pain,230
+obesity,stiffness,229
+hemiparesis,energy increased,229
+cardiomyopathy,mass of body structure,229
+incontinence,achalasia,229
+obesity,shortness of breath,228
+obesity,r wave feature,228
+obesity,has religious belief,228
+carcinoma,nausea and vomiting,228
+obesity,tired,228
+lymphatic diseases,photophobia,228
+obesity,fatigue,228
+obesity,pain chest,228
+obesity,ecchymosis,228
+obesity,mood depressed,228
+obesity,systolic murmur,228
+obesity,overweight,228
+obesity,snore,228
+obesity,catatonia,228
+epilepsy,patient non compliance,228
+psychotic disorder,tumor cell invasion,228
+carcinoma,urinoma,227
+pneumonia aspiration,asterixis,227
+ischemia,rale,226
+ischemia,sweating increased,226
+ischemia,sinus rhythm,226
+ischemia,bradycardia,226
+ischemia,sweat,226
+ischemia,drowsiness,226
+obesity,bradycardia,226
+ischemia,sleepy,226
+ischemia,pain chest,226
+ischemia,chest discomfort,226
+ischemia,pressure chest,226
+ischemia,angina pectoris,226
+ischemia,dyspnea,226
+deglutition disorder,lesion,226
+ischemia,asymptomatic,226
+ischemia,anorexia,226
+bacteremia,tremor,226
+hernia,productive cough,225
+transient ischemic attack,malaise,225
+pancreatitis,hyponatremia,225
+carcinoma prostate,feeling suicidal,224
+carcinoma prostate,headache,224
+overload fluid,shortness of breath,224
+gastritis,decreased body weight,224
+hyperlipidemia,patient non compliance,224
+peripheral vascular disease,cushingoid facies,223
+hypertension pulmonary,chest tightness,223
+schizophrenia,hallucinations visual,222
+lymphatic diseases,rale,222
+upper respiratory infection,unresponsiveness,221
+malignant neoplasm of breast,polymyalgia,221
+carcinoma prostate,macule,221
+psychotic disorder,pruritus,220
+embolism pulmonary,incoherent,220
+sepsis (invertebrate),gravida 0,220
+ischemia,presence of q wave,219
+sickle cell anemia,cardiovascular finding,219
+bipolar disorder,abdominal bloating,219
+carcinoma prostate,panic,219
+lymphatic diseases,asthenia,219
+pancreatitis,wheezing,219
+cirrhosis,pruritus,218
+cardiomyopathy,pain,218
+cirrhosis,hemodynamically stable,218
+cirrhosis,bleeding of vagina,218
+cirrhosis,elation,218
+cirrhosis,fall,218
+cirrhosis,tumor cell invasion,218
+cirrhosis,distended abdomen,218
+cirrhosis,lesion,218
+cirrhosis,guaiac positive,218
+cirrhosis,pain abdominal,218
+cirrhosis,splenomegaly,218
+cirrhosis,ascites,218
+hernia,hyperkalemia,217
+lymphoma,cachexia,217
+hernia,sleepy,217
+suicide attempt,para 2,216
+hemiparesis,chill,216
+ischemia,pruritus,216
+edema pulmonary,unresponsiveness,216
+carcinoma,facial paresis,216
+diverticulitis,bradycardia,215
+malignant tumor of colon,hypokinesia,215
+sepsis (invertebrate),pain abdominal,215
+sickle cell anemia,dyspnea,215
+kidney failure acute,dizzy spells,215
+obesity,tonic seizures,215
+bipolar disorder,decreased body weight,215
+paroxysmalÂ dyspnea,drowsiness,214
+ischemia,sensory discomfort,213
+diverticulosis,homelessness,213
+cirrhosis,non-productive cough,212
+upper respiratory infection,dullness,212
+bacteremia,angina pectoris,212
+malignant neoplasm of prostate,erythema,212
+benign prostatic hypertrophy,suicidal,211
+exanthema,ascites,211
+kidney failure acute,blackout,211
+systemic infection,mass of body structure,211
+incontinence,lethargy,210
+obesity,verbal auditory hallucinations,210
+oralÂ candidiasis,nausea,210
+hernia,transaminitis,210
+edema pulmonary,decreased translucency,209
+stenosis aortic valve,tremor,209
+carcinoma prostate,night sweat,209
+ulcer peptic,urge incontinence,209
+transient ischemic attack,patient non compliance,209
+benign prostatic hypertrophy,decreased body weight,209
+exanthema,painful swallowing,208
+exanthema,scratch marks,208
+exanthema,pain,208
+exanthema,apyrexial,208
+exanthema,chill,208
+exanthema,photophobia,208
+exanthema,fever,208
+exanthema,lesion,208
+exanthema,macule,208
+exanthema,pruritus,208
+transient ischemic attack,feeling suicidal,208
+exanthema,arthralgia,208
+exanthema,erythema,208
+exanthema,swelling,208
+exanthema,redness,208
+exanthema,headache,208
+hyperlipidemia,pericardial friction rub,208
+carcinoma prostate,transaminitis,207
+schizophrenia,dyspnea,207
+malignant neoplasm of breast,hyperkalemia,206
+sickle cell anemia,muscle twitch,206
+bronchitis,mental status changes,206
+edema pulmonary,sensory discomfort,206
+gastritis,hoarseness,205
+osteomyelitis,frothy sputum,205
+bacteremia,syncope,205
+hepatitis,diarrhea,205
+candidiasis,sore to touch,205
+carcinoma colon,spasm,204
+upper respiratory infection,muscle twitch,204
+upper respiratory infection,tachypnea,204
+gastritis,sleepy,204
+cellulitis,lesion,203
+lymphoma,withdraw,203
+carcinoma prostate,vertigo,203
+encephalopathy,nausea,202
+edema pulmonary,pansystolic murmur,202
+arthritis,irritable mood,202
+PneumocystisÂ cariniiÂ pneumonia,chest tightness,202
+schizophrenia,worry,202
+malignant neoplasm of prostate,mediastinal shift,201
+paroxysmalÂ dyspnea,worry,201
+carcinoma colon,pain chest,201
+stenosis aortic valve,shortness of breath,201
+failure kidney,energy increased,201
+sickle cell anemia,rale,200
+kidney failure acute,pain chest,200
+exanthema,prostatism,200
+lymphatic diseases,thicken,200
+lymphatic diseases,lesion,200
+carcinoma prostate,redness,200
+candidiasis,seizure,199
+personality disorder,worry,199
+failure heart,vomiting,199
+adenocarcinoma,bedridden,199
+carcinoma prostate,ascites,198
+carcinoma breast,monoclonal,198
+incontinence,polyuria,198
+diverticulitis,orthopnea,198
+neoplasm,swelling,198
+mitral valve insufficiency,motor retardation,197
+mitral valve insufficiency,hyperkalemia,197
+edema pulmonary,hemodynamically stable,197
+parkinson disease,productive cough,197
+arthritis,hacking cough,196
+cirrhosis,night sweat,196
+oralÂ candidiasis,seizure,196
+carcinoma,orthostasis,196
+paranoia,difficulty,196
+osteomyelitis,syncope,196
+hyperlipidemia,fever,196
+gastritis,shortness of breath,196
+hepatitis,hyperkalemia,196
+lymphoma,unhappy,195
+hypertension pulmonary,pain back,195
+pancreatitis,neologism,195
+peripheral vascular disease,shooting pain,195
+gout,unresponsiveness,194
+hypothyroidism,painful swallowing,194
+obesity,rale,194
+oralÂ candidiasis,tachypnea,194
+parkinson disease,mass of body structure,193
+gastritis,pain,193
+malignant neoplasm of breast,irritable mood,193
+sickle cell anemia,pain abdominal,193
+hepatitis B,yellow sputum,193
+carcinoma prostate,lung nodule,192
+benign prostatic hypertrophy,dysarthria,192
+benign prostatic hypertrophy,orthostasis,192
+benign prostatic hypertrophy,distress respiratory,192
+benign prostatic hypertrophy,night sweat,192
+bronchitis,cough,192
+benign prostatic hypertrophy,mental status changes,192
+benign prostatic hypertrophy,cachexia,192
+benign prostatic hypertrophy,blackout,192
+suicide attempt,fever,191
+pancreatitis,lesion,191
+neoplasm metastasis,paraparesis,191
+upper respiratory infection,hallucinations auditory,191
+overload fluid,decreased stool caliber,191
+ulcer peptic,paraparesis,190
+carcinoma prostate,angina pectoris,190
+kidney failure acute,unresponsiveness,190
+thrombocytopaenia,fatigue,189
+neoplasm metastasis,sensory discomfort,189
+chronic kidney failure,hemiplegia,189
+mitral valve insufficiency,frail,189
+hepatitis,lesion,189
+colitis,underweight,188
+cardiomyopathy,enuresis,188
+cirrhosis,asterixis,188
+schizophrenia,splenomegaly,188
+manic disorder,asthenia,187
+gastritis,alcohol binge episode,187
+stenosis aortic valve,non-productive cough,187
+hepatitis B,distress respiratory,187
+malignant neoplasm of prostate,ache,186
+mitral valve insufficiency,pain,186
+mitral valve insufficiency,syncope,186
+mitral valve insufficiency,fatigue,186
+mitral valve insufficiency,palpitation,186
+mitral valve insufficiency,leftÂ atrialÂ hypertrophy,186
+mitral valve insufficiency,vomiting,186
+mitral valve insufficiency,cardiomegaly,186
+kidney failure acute,"hypothermia, natural",186
+kidney failure acute,hemodynamically stable,186
+overload fluid,angina pectoris,186
+mitral valve insufficiency,hypokinesia,186
+mitral valve insufficiency,asymptomatic,186
+mitral valve insufficiency,dyspnea on exertion,186
+kidney failure acute,diarrhea,186
+kidney failure acute,hypocalcemia result,186
+kidney failure acute,hypotension,186
+mitral valve insufficiency,dyspnea,186
+kidney failure acute,oliguria,186
+kidney failure acute,hyperkalemia,186
+mitral valve insufficiency,chest discomfort,186
+mitral valve insufficiency,thicken,186
+colitis,systolic murmur,186
+kidney failure acute,haemorrhage,186
+mitral valve insufficiency,shortness of breath,186
+diverticulosis,mass of body structure,186
+thrombocytopaenia,aphagia,186
+upper respiratory infection,green sputum,185
+edema pulmonary,breath sounds decreased,185
+pneumonia aspiration,hallucinations auditory,185
+tonic-clonic epilepsy,chill,184
+carcinoma breast,palpitation,184
+lymphatic diseases,urinary hesitation,184
+neuropathy,systolic murmur,184
+schizophrenia,hematuria,183
+hypertension pulmonary,cyanosis,183
+chronic kidney failure,sleepy,183
+pneumonia aspiration,irritable mood,182
+parkinson disease,swelling,182
+overload fluid,mass of body structure,182
+hypoglycemia,nausea,181
+lymphatic diseases,patient non compliance,181
+mitral valve insufficiency,night sweat,181
+hemiparesis,rale,181
+bronchitis,speech slurred,181
+lymphatic diseases,energy increased,181
+hernia,motor retardation,181
+thrombocytopaenia,non-productive cough,180
+pancreatitis,prostate tender,180
+bacteremia,headache,180
+osteomyelitis,pain abdominal,180
+paranoia,productive cough,179
+arthritis,hemodynamically stable,179
+gout,mass of body structure,179
+arthritis,sleeplessness,179
+arthritis,pain,179
+arthritis,distended abdomen,179
+hypoglycemia,worry,179
+bacteremia,estrogen use,179
+upper respiratory infection,irritable mood,179
+cirrhosis,indifferent mood,179
+paroxysmalÂ dyspnea,clonus,179
+arthritis,shortness of breath,179
+pancreatitis,patient non compliance,179
+arthritis,atypia,179
+arthritis,general unsteadiness,179
+arthritis,swelling,179
+arthritis,syncope,179
+arthritis,asthenia,179
+stenosis aortic valve,hypotension,178
+ulcer peptic,suicidal,178
+failure kidney,hypotonic,178
+pneumonia aspiration,chest tightness,178
+upper respiratory infection,splenomegaly,178
+PneumocystisÂ cariniiÂ pneumonia,agitation,177
+osteoporosis,rale,177
+pancreatitis,breath-holding spell,177
+edema pulmonary,shortness of breath,176
+adenocarcinoma,night sweat,176
+malignant neoplasm of prostate,hypotension,176
+diverticulosis,asthenia,176
+pneumonia aspiration,scleralÂ icterus,176
+diverticulosis,hot flush,176
+schizophrenia,pain,176
+paranoia,pain abdominal,175
+incontinence,spasm,175
+malignant neoplasm of prostate,asthenia,175
+overload fluid,apyrexial,175
+glaucoma,projectile vomiting,175
+glaucoma,swelling,175
+overload fluid,superimposition,174
+encephalopathy,diarrhea,174
+hyperlipidemia,feeling suicidal,174
+pneumonia aspiration,poor dentition,173
+parkinson disease,shortness of breath,173
+paranoia,withdraw,173
+cardiomyopathy,pulsusÂ paradoxus,173
+hepatitis,apyrexial,173
+PneumocystisÂ cariniiÂ pneumonia,enuresis,173
+Alzheimer's disease,qt interval prolonged,172
+PneumocystisÂ cariniiÂ pneumonia,muscle twitch,172
+transient ischemic attack,alcohol binge episode,172
+bronchitis,hepatosplenomegaly,172
+bronchitis,productive cough,172
+bronchitis,fever,172
+bronchitis,snuffle,172
+bronchitis,throat sore,172
+bronchitis,labored breathing,172
+bronchitis,haemoptysis,172
+bronchitis,dyspnea,172
+bronchitis,hacking cough,172
+bronchitis,chill,172
+bronchitis,stridor,172
+bronchitis,decreased body weight,172
+hemiparesis,drowsiness,171
+hemiparesis,fremitus,171
+hemiparesis,paresis,171
+hemiparesis,speech slurred,171
+hemiparesis,focal seizures,171
+hemiparesis,stupor,171
+hemiparesis,hemiplegia,171
+hemiparesis,abnormal sensation,171
+hemiparesis,unresponsiveness,171
+hemiparesis,aphagia,171
+hemiparesis,seizure,171
+incontinence,vomiting,171
+hemiparesis,facial paresis,171
+hemiparesis,clonus,171
+encephalopathy,polyuria,171
+hemiparesis,asthenia,171
+stenosis aortic valve,fremitus,171
+hemiparesis,dysarthria,171
+hemiparesis,paralyse,171
+hemiparesis,stinging sensation,171
+hemiparesis,Stahli's line,171
+gout,sweating increased,170
+diverticulitis,pleuritic pain,170
+diverticulosis,energy increased,170
+benign prostatic hypertrophy,sleeplessness,170
+paranoia,food intolerance,170
+Alzheimer's disease,hyperkalemia,170
+oralÂ candidiasis,vomiting,170
+glaucoma,frail,170
+thrombocytopaenia,breech presentation,170
+manic disorder,spasm,170
+arthritis,unsteady gait,170
+malignantÂ neoplasms,tremor,170
+osteoporosis,apyrexial,169
+osteoporosis,lightheadedness,169
+osteoporosis,numbness of hand,169
+osteoporosis,hirsutism,169
+osteoporosis,sniffle,169
+osteoporosis,urge incontinence,169
+osteoporosis,vertigo,169
+osteoporosis,out of breath,169
+gastritis,cough,169
+osteoporosis,fall,169
+osteoporosis,syncope,169
+osteoporosis,bradykinesia,169
+osteoporosis,night sweat,169
+osteoporosis,distended abdomen,169
+osteoporosis,prostatism,169
+osteoporosis,pain,169
+kidney failure acute,suicidal,168
+transient ischemic attack,neck stiffness,168
+transient ischemic attack,Stahli's line,168
+oralÂ candidiasis,rale,168
+transient ischemic attack,extrapyramidal sign,168
+bipolar disorder,spontaneous rupture of membranes,168
+hypoglycemia,fever,168
+transient ischemic attack,clumsiness,168
+transient ischemic attack,rambling speech,168
+transient ischemic attack,difficulty,168
+transient ischemic attack,syncope,168
+transient ischemic attack,lightheadedness,168
+transient ischemic attack,headache,168
+hypoglycemia,pain,168
+transient ischemic attack,vision blurred,168
+Alzheimer's disease,wheezing,168
+transient ischemic attack,room spinning,168
+paranoia,rale,168
+transient ischemic attack,speech slurred,168
+transient ischemic attack,dysarthria,168
+transient ischemic attack,facial paresis,168
+Alzheimer's disease,enuresis,168
+transient ischemic attack,asthenia,168
+transient ischemic attack,numbness,168
+transient ischemic attack,vertigo,168
+stenosis aortic valve,distended abdomen,167
+upper respiratory infection,productive cough,167
+gastroesophageal reflux disease,fever,167
+exanthema,palpitation,167
+deglutition disorder,dyspnea on exertion,167
+adenocarcinoma,decreased body weight,166
+adenocarcinoma,fremitus,166
+adenocarcinoma,lesion,166
+adenocarcinoma,mass of body structure,166
+adenocarcinoma,satiety early,166
+adenocarcinoma,decreased stool caliber,166
+adenocarcinoma,constipation,166
+adenocarcinoma,scar tissue,166
+suicide attempt,shortness of breath,166
+respiratory failure,pain,166
+upper respiratory infection,hypotension,166
+adenocarcinoma,cicatrisation,166
+suicide attempt,jugular venous distention,166
+adenocarcinoma,hematochezia,166
+adenocarcinoma,egophony,166
+carcinoma prostate,hypokalemia,166
+adenocarcinoma,pain,166
+diverticulitis,abdominal tenderness,166
+adenocarcinoma,pain abdominal,166
+carcinoma breast,hypokalemia,166
+paroxysmalÂ dyspnea,sweat,165
+paroxysmalÂ dyspnea,weight gain,165
+paroxysmalÂ dyspnea,cough,165
+incontinence,asthenia,165
+paroxysmalÂ dyspnea,jugular venous distention,165
+paranoia,neologism,165
+paranoia,homelessness,165
+paranoia,terrify,165
+paroxysmalÂ dyspnea,rale,165
+paroxysmalÂ dyspnea,pain chest,165
+paroxysmalÂ dyspnea,palpitation,165
+paroxysmalÂ dyspnea,dyspnea,165
+paroxysmalÂ dyspnea,sweating increased,165
+incontinence,syncope,165
+incontinence,fall,165
+incontinence,stiffness,165
+incontinence,unresponsiveness,165
+paroxysmalÂ dyspnea,orthopnea,165
+paroxysmalÂ dyspnea,shortness of breath,165
+suicide attempt,burning sensation,165
+incontinence,urge incontinence,165
+incontinence,unconscious state,165
+incontinence,aura,165
+incontinence,moody,165
+incontinence,fear of falling,165
+incontinence,tremor,165
+paroxysmalÂ dyspnea,dyspnea on exertion,165
+incontinence,unhappy,165
+pancreatitis,nausea,165
+paranoia,suicidal,165
+paranoia,feeling suicidal,165
+pancreatitis,pain abdominal,165
+pancreatitis,vomiting,165
+diverticulitis,difficulty,165
+paranoia,loose associations,165
+pancreatitis,sore to touch,165
+incontinence,paraparesis,165
+incontinence,seizure,165
+paranoia,decompensation,165
+paranoia,cicatrisation,165
+paranoia,scar tissue,165
+paranoia,blackout,165
+manic disorder,haemorrhage,165
+pancreatitis,rigor - temperature-associated observation,165
+pancreatitis,stool color yellow,165
+pancreatitis,diarrhea,165
+pancreatitis,apyrexial,165
+paranoia,verbal auditory hallucinations,165
+candidiasis,yellow sputum,165
+pancreatitis,pain,165
+paranoia,mood depressed,165
+paranoia,energy increased,165
+candidiasis,pruritus,165
+paranoia,irritable mood,165
+paranoia,agitation,165
+paranoia,hallucinations visual,165
+colitis,fatigue,165
+upper respiratory infection,adverse reaction,164
+hernia,sore to touch,164
+hernia,haemorrhage,164
+hernia,apyrexial,164
+hernia,hemiplegia,164
+Alzheimer's disease,unconscious state,164
+hernia,excruciating pain,164
+malignant neoplasm of prostate,fever,164
+hernia,posturing,164
+hernia,nausea,164
+hernia,thicken,164
+hernia,hyperventilation,164
+hernia,pain abdominal,164
+hernia,pulse absent,164
+hernia,food intolerance,164
+hernia,mass of body structure,164
+hernia,gag,164
+primary carcinoma of the liver cells,feeling suicidal,164
+malignant neoplasm of prostate,hemianopsia homonymous,163
+carcinoma prostate,rhonchus,163
+malignant neoplasm of prostate,vertigo,163
+malignant neoplasm of prostate,qt interval prolonged,163
+malignant neoplasm of prostate,ataxia,163
+malignant neoplasm of prostate,paresis,163
+malignant neoplasm of prostate,pleuritic pain,163
+malignant neoplasm of prostate,hemodynamically stable,163
+malignant neoplasm of prostate,mass of body structure,163
+malignant neoplasm of prostate,rhonchus,163
+malignant neoplasm of prostate,orthostasis,163
+malignant neoplasm of prostate,guaiac positive,163
+carcinoma prostate,orthostasis,163
+carcinoma prostate,decreased body weight,163
+malignant neoplasm of prostate,tumor cell invasion,163
+malignant neoplasm of prostate,breath sounds decreased,163
+malignant neoplasm of prostate,diarrhea,163
+malignant neoplasm of prostate,dysuria,163
+malignant neoplasm of prostate,dysesthesia,163
+malignant neoplasm of prostate,polymyalgia,163
+malignant neoplasm of prostate,passed stones,163
+malignant neoplasm of prostate,hematuria,163
+malignant neoplasm of prostate,urge incontinence,163
+malignant neoplasm of prostate,rale,163
+carcinoma prostate,urge incontinence,163
+carcinoma prostate,dysuria,163
+carcinoma prostate,diarrhea,163
+carcinoma prostate,qt interval prolonged,163
+carcinoma prostate,ataxia,163
+carcinoma prostate,breath sounds decreased,163
+carcinoma prostate,rale,163
+sickle cell anemia,hypokinesia,163
+carcinoma colon,fever,163
+carcinoma prostate,pleuritic pain,163
+carcinoma prostate,passed stones,163
+carcinoma prostate,polymyalgia,163
+carcinoma prostate,asthenia,163
+carcinoma prostate,dysesthesia,163
+carcinoma prostate,hematuria,163
+carcinoma prostate,mass of body structure,163
+carcinoma prostate,hemodynamically stable,163
+carcinoma prostate,tumor cell invasion,163
+carcinoma prostate,hemianopsia homonymous,163
+malignant neoplasm of prostate,decreased body weight,163
+parkinson disease,hemodynamically stable,162
+overload fluid,bedridden,162
+thrombocytopaenia,suicidal,162
+respiratory failure,sinus rhythm,161
+edema pulmonary,rale,161
+suicide attempt,breech presentation,161
+arthritis,pruritus,161
+edema pulmonary,hypotension,161
+edema pulmonary,pain chest,161
+edema pulmonary,sinus rhythm,161
+edema pulmonary,tachypnea,161
+edema pulmonary,patient non compliance,161
+edema pulmonary,sweat,161
+edema pulmonary,jugular venous distention,161
+edema pulmonary,urgency ofÂ micturition,161
+edema pulmonary,dyspnea,161
+edema pulmonary,sweating increased,161
+edema pulmonary,wheezing,161
+candidiasis,breath sounds decreased,161
+schizophrenia,wheezing,161
+edema pulmonary,Heberden's node,161
+edema pulmonary,orthopnea,161
+edema pulmonary,chest discomfort,161
+edema pulmonary,hyperkalemia,161
+lymphatic diseases,fremitus,160
+lymphatic diseases,splenomegaly,160
+lymphatic diseases,night sweat,160
+lymphatic diseases,chill,160
+hernia,tachypnea,160
+lymphatic diseases,egophony,160
+lymphatic diseases,fatigue,160
+lymphatic diseases,hepatomegaly,160
+lymphatic diseases,redness,160
+paranoia,hoarseness,160
+lymphatic diseases,pain,160
+lymphatic diseases,decreased body weight,160
+lymphatic diseases,swelling,160
+lymphatic diseases,hyperacusis,160
+lymphatic diseases,fever,160
+bronchitis,fremitus,160
+parkinson disease,pain abdominal,159
+hyperglycemia,fever,159
+thrombocytopaenia,shortness of breath,159
+personality disorder,ascites,159
+kidney failure acute,decreased translucency,159
+paranoia,hypoalbuminemia,159
+carcinoma,night sweat,159
+stenosis aortic valve,bradycardia,158
+respiratory failure,gurgle,158
+stenosis aortic valve,systolic murmur,158
+stenosis aortic valve,dyspnea on exertion,158
+stenosis aortic valve,frothy sputum,158
+stenosis aortic valve,pain chest,158
+stenosis aortic valve,sciatica,158
+stenosis aortic valve,syncope,158
+stenosis aortic valve,angina pectoris,158
+stenosis aortic valve,chest discomfort,158
+diverticulitis,mass in breast,158
+stenosis aortic valve,pain,158
+carcinoma of lung,hemiplegia,157
+Alzheimer's disease,orthopnea,157
+upper respiratory infection,patient non compliance,157
+diverticulitis,lesion,157
+lymphoma,palpitation,157
+carcinoma prostate,r wave feature,157
+pneumonia aspiration,fear of falling,157
+transient ischemic attack,diarrhea,157
+hypoglycemia,wheelchair bound,156
+carcinoma prostate,tonic seizures,156
+bacteremia,fever,156
+bipolar disorder,hyperacusis,156
+malignant tumor of colon,urge incontinence,155
+lymphatic diseases,blackout,155
+hepatitis,colic abdominal,155
+hepatitis B,unconscious state,154
+tricuspid valve insufficiency,scar tissue,154
+stenosis aortic valve,unhappy,153
+diverticulosis,tumor cell invasion,153
+respiratory failure,r wave feature,153
+malignant neoplasm of breast,mass in breast,152
+malignant neoplasm of breast,erythema,152
+carcinoma breast,estrogen use,152
+carcinoma breast,formication,152
+carcinoma breast,swelling,152
+carcinoma breast,difficulty,152
+malignant neoplasm of breast,burning sensation,152
+carcinoma breast,mass in breast,152
+malignant neoplasm of breast,retropulsion,152
+malignant neoplasm of breast,paresthesia,152
+malignant neoplasm of breast,swelling,152
+malignant neoplasm of breast,estrogen use,152
+malignant neoplasm of breast,mass of body structure,152
+malignant neoplasm of breast,formication,152
+malignant neoplasm of breast,lesion,152
+malignant neoplasm of breast,difficulty,152
+carcinoma breast,burning sensation,152
+carcinoma breast,dyspnea,152
+carcinoma breast,lesion,152
+melanoma,arthralgia,152
+tricuspid valve insufficiency,diarrhea,152
+malignant neoplasm of breast,dyspnea,152
+carcinoma breast,erythema,152
+carcinoma breast,paresthesia,152
+carcinoma breast,retropulsion,152
+carcinoma breast,mass of body structure,152
+candidiasis,orthopnea,152
+overload fluid,syncope,151
+melanoma,behavior hyperactive,151
+carcinoma breast,chest discomfort,151
+pericardial effusion body substance,vomiting,150
+pneumonia aspiration,fever,150
+thrombocytopaenia,diarrhea,150
+diverticulosis,wheezing,149
+deglutition disorder,numbness,149
+bacteremia,apyrexial,149
+ketoacidosis diabetic,chest tightness,149
+primary carcinoma of the liver cells,hypotension,149
+diverticulosis,pain abdominal,149
+sickle cell anemia,irritable mood,148
+mitral valve insufficiency,moan,148
+malignant neoplasm of prostate,redness,148
+sickle cell anemia,snuffle,148
+parkinson disease,cushingoidÂ habitus,148
+failure kidney,scratch marks,148
+oralÂ candidiasis,urge incontinence,148
+malignant neoplasm of prostate,chill,148
+hernia,titubation,148
+neuropathy,seizure,148
+stenosis aortic valve,sleepy,147
+schizophrenia,underweight,147
+schizophrenia,irritable mood,147
+neuropathy,apyrexial,147
+neoplasm,throbbing sensation quality,147
+schizophrenia,hallucinations auditory,147
+paroxysmalÂ dyspnea,verbally abusive behavior,147
+schizophrenia,hypersomnolence,147
+schizophrenia,verbal auditory hallucinations,147
+carcinoma breast,painful swallowing,147
+edema pulmonary,nausea,147
+sickle cell anemia,scratch marks,147
+schizophrenia,agitation,147
+schizophrenia,suicidal,147
+schizophrenia,homelessness,147
+schizophrenia,patient non compliance,147
+pneumonia aspiration,syncope,146
+lymphoma,pain,146
+malignant tumor of colon,night sweat,146
+parkinson disease,cicatrisation,146
+tonic-clonic seizures,green sputum,146
+diverticulitis,constipation,145
+diverticulitis,monoclonal,145
+diverticulitis,anorexia,145
+diverticulitis,thicken,145
+diverticulitis,fever,145
+diverticulitis,pain,145
+tricuspid valve insufficiency,asthenia,145
+Alzheimer's disease,fever,145
+diverticulitis,apyrexial,145
+diverticulitis,sinus rhythm,145
+diverticulitis,unsteady gait,145
+spasm bronchial,excruciating pain,145
+diverticulitis,vomiting,145
+diverticulitis,diarrhea,145
+neoplasm metastasis,urinary hesitation,145
+diverticulitis,sore to touch,145
+hernia,erythema,145
+candidiasis,asthenia,145
+diverticulitis,colic abdominal,145
+diverticulitis,abscess bacterial,145
+diverticulitis,red blotches,145
+diverticulitis,dysuria,145
+diverticulitis,pain abdominal,145
+diverticulitis,dullness,145
+diverticulitis,tremor,144
+suicide attempt,heme positive,144
+overload fluid,rale,144
+overload fluid,jugular venous distention,144
+suicide attempt,facial paresis,144
+overload fluid,hyperkalemia,144
+edema pulmonary,paresthesia,144
+overload fluid,hypotension,144
+overload fluid,hypokalemia,144
+overload fluid,swelling,144
+colitis,stiffness,144
+overload fluid,drowsiness,144
+sickle cell anemia,nightmare,144
+overload fluid,distended abdomen,144
+overload fluid,weight gain,144
+overload fluid,orthopnea,144
+overload fluid,sleepy,144
+hepatitis,awakening early,143
+ulcer peptic,gurgle,143
+ulcer peptic,pain chest,143
+ulcer peptic,hemiplegia,143
+ulcer peptic,vomiting,143
+ulcer peptic,polymyalgia,143
+ulcer peptic,nausea,143
+ulcer peptic,out of breath,143
+upper respiratory infection,hyponatremia,143
+bacteremia,productive cough,143
+ulcer peptic,apyrexial,143
+ulcer peptic,nervousness,143
+ulcer peptic,hunger,143
+ulcer peptic,pain abdominal,143
+carcinoma breast,worry,143
+osteomyelitis,apyrexial,142
+osteomyelitis,erythema,142
+hyperglycemia,verbal auditory hallucinations,142
+bacteremia,flushing,142
+osteomyelitis,abscess bacterial,142
+osteomyelitis,pain foot,142
+osteomyelitis,urinary hesitation,142
+osteomyelitis,difficulty passing urine,142
+osteomyelitis,swelling,142
+osteomyelitis,sore to touch,142
+bacteremia,unresponsiveness,142
+bacteremia,indifferent mood,142
+osteomyelitis,redness,142
+osteomyelitis,pain,142
+bacteremia,pallor,142
+bacteremia,vomiting,142
+bacteremia,hypoalbuminemia,142
+bacteremia,urinoma,142
+bacteremia,distended abdomen,142
+bacteremia,decreased translucency,142
+bacteremia,pustule,142
+bacteremia,diarrhea,142
+bacteremia,abdominal tenderness,142
+bacteremia,pleuritic pain,142
+hemiparesis,suicidal,142
+bacteremia,prostatism,142
+osteomyelitis,fever,142
+osteomyelitis,prostate tender,142
+upper respiratory infection,lesion,142
+bacteremia,chill,142
+paroxysmalÂ dyspnea,hypokinesia,142
+incontinence,muscle twitch,141
+diverticulitis,sleeplessness,141
+Alzheimer's disease,palpitation,141
+Alzheimer's disease,numbness of hand,141
+PneumocystisÂ cariniiÂ pneumonia,hyponatremia,141
+oralÂ candidiasis,shortness of breath,141
+gastritis,haemorrhage,140
+sickle cell anemia,headache,140
+gastritis,guaiac positive,140
+sickle cell anemia,hepatosplenomegaly,140
+gastritis,intoxication,140
+bipolar disorder,snore,140
+gastritis,nausea,140
+gastritis,disequilibrium,140
+gastritis,heme positive,140
+hemiparesis,distress respiratory,140
+sickle cell anemia,pain chest,140
+failure kidney,haemorrhage,140
+failure kidney,enuresis,140
+failure kidney,bedridden,140
+tonic-clonic epilepsy,motor retardation,140
+sickle cell anemia,pain back,140
+sickle cell anemia,breakthrough pain,140
+failure kidney,fatigue,140
+failure kidney,hypotension,140
+failure kidney,prostatism,140
+failure kidney,shortness of breath,140
+failure kidney,no status change,140
+upper respiratory infection,sore to touch,140
+osteomyelitis,pansystolic murmur,140
+sickle cell anemia,apyrexial,140
+sickle cell anemia,green sputum,140
+sickle cell anemia,shortness of breath,140
+sickle cell anemia,pain,140
+failure kidney,unresponsiveness,140
+failure kidney,extreme exhaustion,140
+failure kidney,slowing of urinary stream,140
+failure kidney,orthopnea,140
+failure kidney,oliguria,140
+gastritis,pain abdominal,140
+gastritis,vomiting,140
+gastroenteritis,stridor,140
+gastritis,dizziness,140
+gastritis,sore to touch,140
+failure kidney,pain,139
+lymphoma,regurgitates after swallowing,139
+obesity,extreme exhaustion,139
+psychotic disorder,lesion,139
+failure heart,heme positive,139
+bipolar disorder,difficulty passing urine,139
+suicide attempt,dullness,139
+diverticulosis,colic abdominal,139
+malignant neoplasm of prostate,hallucinations auditory,139
+failure heart,dyspnea,138
+failure heart,jugular venous distention,138
+failure heart,angina pectoris,138
+Alzheimer's disease,hemodynamically stable,138
+failure heart,fatigue,138
+failure heart,systolic ejection murmur,138
+failure heart,hypokinesia,138
+failure heart,pansystolic murmur,138
+failure heart,dyspnea on exertion,138
+failure heart,shortness of breath,138
+failure heart,orthopnea,138
+hypoglycemia,shortness of breath,138
+failure heart,hypotension,138
+hepatitis,photopsia,138
+suicide attempt,sweat,138
+gout,drowsiness,138
+hepatitis,vomiting,138
+colitis,haemorrhage,137
+gastritis,leftÂ atrialÂ hypertrophy,137
+gastroenteritis,feeling hopeless,137
+carcinoma breast,adverse reaction,137
+pancreatitis,headache,137
+hypertension pulmonary,shortness of breath,137
+hyperglycemia,red blotches,136
+suicide attempt,pain,136
+tonic-clonic epilepsy,stridor,136
+malignant tumor of colon,wheezing,136
+oralÂ candidiasis,sweat,136
+candidiasis,hyperkalemia,136
+diverticulosis,gurgle,136
+malignant tumor of colon,tired,136
+failure heart,diarrhea,136
+parkinson disease,jugular venous distention,136
+upper respiratory infection,pleuritic pain,135
+upper respiratory infection,night sweat,135
+upper respiratory infection,polymyalgia,135
+upper respiratory infection,frail,135
+upper respiratory infection,emphysematous change,135
+upper respiratory infection,nasal discharge present,135
+upper respiratory infection,noisy respiration,135
+epilepsy,hypokinesia,135
+lymphatic diseases,syncope,135
+upper respiratory infection,rhonchus,135
+upper respiratory infection,decreased translucency,135
+upper respiratory infection,apyrexial,135
+upper respiratory infection,rapid shallow breathing,135
+upper respiratory infection,hemodynamically stable,135
+upper respiratory infection,symptom aggravating factors,135
+upper respiratory infection,cough,135
+upper respiratory infection,cystic lesion,135
+upper respiratory infection,barking cough,135
+hepatitis,rale,135
+upper respiratory infection,fever,135
+upper respiratory infection,indifferent mood,135
+upper respiratory infection,egophony,135
+upper respiratory infection,snuffle,135
+upper respiratory infection,non-productive cough,135
+upper respiratory infection,dyspnea,135
+parkinson disease,phonophobia,135
+upper respiratory infection,stuffy nose,135
+upper respiratory infection,throat sore,135
+upper respiratory infection,wheezing,135
+upper respiratory infection,shortness of breath,135
+carcinoma prostate,apyrexial,135
+stenosis aortic valve,bedridden,134
+kidney disease,general discomfort,134
+tonic-clonic seizures,motor retardation,134
+oralÂ candidiasis,dysarthria,134
+bronchitis,numbness,134
+colitis,moody,134
+carcinoma prostate,enuresis,133
+hepatitis,pruritus,133
+hepatitis,ascites,133
+malignant tumor of colon,egophony,133
+hepatitis,spontaneous rupture of membranes,133
+hepatitis,chill,133
+hepatitis,transaminitis,133
+hepatitis,distress respiratory,133
+hepatitis,fever,133
+hepatitis,projectile vomiting,133
+hepatitis,anorexia,133
+melanoma,cough,133
+hepatitis,pain abdominal,133
+hepatitis,tachypnea,133
+colitis,headache,133
+hypoglycemia,drowsiness,132
+personality disorder,tremor,132
+edema pulmonary,uncoordination,132
+lymphoma,wheezing,131
+schizophrenia,tenesmus,131
+hernia,focal seizures,131
+diverticulosis,feeling hopeless,131
+personality disorder,blackout,131
+failure kidney,orthostasis,131
+kidney disease,tired,131
+transient ischemic attack,tremor,130
+lymphoma,prostatism,130
+malignantÂ neoplasms,sleeplessness,130
+bacteremia,spontaneous rupture of membranes,130
+glaucoma,chill,130
+encephalopathy,patient non compliance,130
+hepatitis B,transaminitis,130
+hernia,dyspnea on exertion,130
+stenosis aortic valve,cushingoidÂ habitus,129
+osteomyelitis,yellow sputum,129
+exanthema,unresponsiveness,129
+failure kidney,mass of body structure,129
+carcinoma colon,painful swallowing,129
+candidiasis,distress respiratory,129
+PneumocystisÂ cariniiÂ pneumonia,pleuritic pain,128
+oralÂ candidiasis,has religious belief,128
+fibroid tumor,polyuria,128
+suicide attempt,abnormal sensation,128
+hypertension pulmonary,heavy legs,128
+hypertension pulmonary,breath sounds decreased,128
+hypertension pulmonary,leftÂ atrialÂ hypertrophy,128
+hypertension pulmonary,neck stiffness,128
+hernia,swelling,128
+hypertension pulmonary,Stahli's line,128
+parkinson disease,debilitation,128
+hypertension pulmonary,dyspnea on exertion,128
+hypertension pulmonary,hypotension,128
+suicide attempt,mood depressed,127
+Alzheimer's disease,cardiovascular event,127
+upper respiratory infection,pain abdominal,127
+tonic-clonic seizures,clammy skin,127
+primary carcinoma of the liver cells,bowel sounds decreased,127
+hepatitis,charleyhorse,127
+parkinson disease,pain,127
+neoplasm metastasis,seizure,127
+sickle cell anemia,orthopnea,126
+deglutition disorder,hoarseness,126
+deglutition disorder,spasm,126
+gastritis,fever,126
+deglutition disorder,dysdiadochokinesia,126
+deglutition disorder,asthenia,126
+Alzheimer's disease,sweating increased,126
+deglutition disorder,paresthesia,126
+PneumocystisÂ cariniiÂ pneumonia,mass of body structure,126
+deglutition disorder,ataxia,126
+deglutition disorder,achalasia,126
+deglutition disorder,stridor,126
+deglutition disorder,painful swallowing,126
+deglutition disorder,titubation,126
+carcinoma colon,difficulty passing urine,126
+deglutition disorder,side pain,126
+deglutition disorder,decreased body weight,126
+cardiomyopathy,passed stones,126
+deglutition disorder,stiffness,126
+deglutition disorder,dysarthria,126
+psychotic disorder,erythema,125
+malignant neoplasm of lung,hypotonic,125
+pericardial effusion body substance,syncope,125
+carcinoma of lung,cushingoidÂ habitus,125
+gout,patient non compliance,124
+malignant neoplasm of lung,pain abdominal,124
+gout,erythema,124
+overload fluid,prostate tender,124
+gout,ascites,124
+gout,hot flush,124
+tonic-clonic epilepsy,dysesthesia,124
+PneumocystisÂ cariniiÂ pneumonia,feeling suicidal,124
+tricuspid valve insufficiency,shortness of breath,124
+gout,emphysematous change,124
+gout,hypokinesia,124
+gout,sore to touch,124
+gout,redness,124
+carcinoma of lung,vomiting,124
+neuropathy,ascites,124
+fibroid tumor,mood depressed,124
+gout,pain,124
+candidiasis,dysuria,124
+tonic-clonic seizures,difficulty passing urine,124
+emphysema pulmonary,agitation,124
+gout,swelling,124
+respiratory failure,hyponatremia,123
+thrombocytopaenia,haemorrhage,123
+thrombocytopaenia,ecchymosis,123
+thrombocytopaenia,fever,123
+diverticulosis,cough,123
+osteomyelitis,mental status changes,123
+thrombocytopaenia,pruritus,123
+carcinoma prostate,hepatosplenomegaly,123
+gastroenteritis,tachypnea,123
+thrombocytopaenia,hypotension,123
+tonic-clonic epilepsy,dyspnea,123
+malignant tumor of colon,presence of q wave,123
+thrombocytopaenia,posteriorÂ rhinorrhea,123
+glaucoma,shortness of breath,123
+thrombocytopaenia,tachypnea,123
+primary carcinoma of the liver cells,nausea and vomiting,123
+lymphoma,blackout,123
+tonic-clonic epilepsy,tinnitus,123
+neuropathy,hallucinations auditory,123
+thrombocytopaenia,monocytosis,123
+hypoglycemia,hypotension,122
+hepatitis B,scar tissue,122
+diverticulosis,irritable mood,122
+hypoglycemia,clammy skin,122
+hypoglycemia,polyuria,122
+failure heart,drowsiness,122
+oralÂ candidiasis,jugular venous distention,122
+herniaÂ hiatal,neologism,122
+hypoglycemia,qt interval prolonged,122
+malignant neoplasm of lung,heavy feeling,122
+hypoglycemia,lameness,122
+hypoglycemia,unconscious state,122
+hypoglycemia,claudication,122
+hypoglycemia,"hypothermia, natural",122
+hypoglycemia,incoherent,122
+hypoglycemia,unresponsiveness,122
+diverticulosis,night sweat,122
+hypoglycemia,distress respiratory,122
+carcinoma breast,bedridden,121
+candidiasis,feeling strange,121
+ketoacidosis diabetic,unresponsiveness,121
+tricuspid valve insufficiency,hydropneumothorax,121
+ketoacidosis diabetic,green sputum,121
+manic disorder,hypersomnolence,121
+Alzheimer's disease,haemoptysis,121
+malignant neoplasm of prostate,weepiness,121
+hepatitis,hemianopsia homonymous,121
+upper respiratory infection,prostatism,121
+hepatitis,mass of body structure,121
+spasm bronchial,motor retardation,120
+carcinoma prostate,unconscious state,120
+parkinson disease,painful swallowing,120
+respiratory failure,colic abdominal,120
+carcinoma colon,speech slurred,120
+malignant tumor of colon,emphysematous change,120
+malignant tumor of colon,dyspnea,120
+pneumonia aspiration,gurgle,119
+pneumonia aspiration,cough,119
+pneumonia aspiration,transaminitis,119
+pneumonia aspiration,stupor,119
+pneumonia aspiration,decreased translucency,119
+Alzheimer's disease,loose associations,119
+hepatitis,mediastinal shift,119
+suicide attempt,haemorrhage,119
+pneumonia aspiration,clonus,119
+pneumonia aspiration,mediastinal shift,119
+neoplasm metastasis,pain abdominal,119
+pneumonia aspiration,mental status changes,119
+pneumonia aspiration,hemiplegia,119
+pneumonia aspiration,seizure,119
+malignant neoplasm of lung,sensory discomfort,119
+pneumonia aspiration,pain abdominal,119
+pneumonia aspiration,diarrhea,119
+pneumonia aspiration,pain,119
+pneumonia aspiration,unresponsiveness,119
+pneumonia aspiration,extreme exhaustion,119
+ketoacidosis diabetic,urge incontinence,118
+colitis,unresponsiveness,118
+melanoma,ascites,118
+personality disorder,muscle twitch,118
+endocarditis,drowsiness,118
+neuropathy,agitation,118
+deglutition disorder,patient non compliance,118
+Alzheimer's disease,ecchymosis,118
+diverticulitis,sleepy,117
+neoplasm metastasis,decreased body weight,117
+PneumocystisÂ cariniiÂ pneumonia,lung nodule,117
+gout,syncope,117
+thrombocytopaenia,chill,117
+melanoma,estrogen use,117
+PneumocystisÂ cariniiÂ pneumonia,pain,117
+Alzheimer's disease,hypotension,117
+lymphoma,haemorrhage,117
+carcinoma colon,cough,117
+hepatitis,gag,116
+malignant tumor of colon,pain back,116
+oralÂ candidiasis,apyrexial,116
+pneumonia aspiration,absences finding,116
+lymphoma,unresponsiveness,116
+parkinson disease,orthopnea,116
+suicide attempt,guaiac positive,116
+oralÂ candidiasis,night sweat,115
+diverticulitis,fatigue,115
+pneumonia aspiration,thicken,115
+parkinson disease,hypokinesia,115
+colitis,unhappy,115
+carcinoma breast,debilitation,115
+Alzheimer's disease,painful swallowing,115
+melanoma,hemiplegia,115
+malignantÂ neoplasms,tumor cell invasion,115
+PneumocystisÂ cariniiÂ pneumonia,thicken,115
+carcinoma of lung,fatigability,114
+colitis,awakening early,114
+colitis,pain,114
+colitis,nausea,114
+colitis,nausea and vomiting,114
+diverticulosis,lightheadedness,114
+diverticulosis,diarrhea,114
+colitis,vomiting,114
+diverticulosis,constipation,114
+diverticulosis,abscess bacterial,114
+diverticulosis,fecaluria,114
+diverticulosis,heme positive,114
+colitis,urge incontinence,114
+colitis,tenesmus,114
+colitis,hemodynamically stable,114
+colitis,pain abdominal,114
+suicide attempt,hallucinations auditory,114
+diverticulosis,feeling suicidal,114
+suicide attempt,motor retardation,114
+suicide attempt,unable to concentrate,114
+suicide attempt,weepiness,114
+suicide attempt,todd paralysis,114
+suicide attempt,difficulty,114
+colitis,green sputum,114
+diverticulosis,haemorrhage,114
+diverticulosis,pain,114
+diverticulosis,projectile vomiting,114
+diverticulosis,pneumatouria,114
+diverticulosis,cystic lesion,114
+diverticulosis,anorexia,114
+diverticulosis,nausea,114
+effusion pericardial,mood depressed,114
+Alzheimer's disease,distress respiratory,114
+obesity morbid,guaiac positive,114
+suicide attempt,unconscious state,114
+suicide attempt,unresponsiveness,114
+suicide attempt,withdraw,114
+hypoglycemia,weepiness,114
+colitis,thicken,114
+colitis,fever,114
+suicide attempt,irritable mood,114
+suicide attempt,worry,114
+suicide attempt,cough,114
+suicide attempt,sleeplessness,114
+suicide attempt,suicidal,114
+suicide attempt,sensory discomfort,114
+suicide attempt,drowsiness,114
+suicide attempt,formication,114
+suicide attempt,alcoholic withdrawal symptoms,114
+suicide attempt,agitation,114
+lymphoma,hallucinations visual,114
+influenza,fatigue,114
+suicide attempt,tremor,114
+suicide attempt,fatigue,114
+parkinson disease,headache,113
+PneumocystisÂ cariniiÂ pneumonia,dyspnea on exertion,113
+PneumocystisÂ cariniiÂ pneumonia,poor dentition,113
+PneumocystisÂ cariniiÂ pneumonia,cachexia,113
+sickle cell anemia,seizure,113
+gastroenteritis,chill,113
+PneumocystisÂ cariniiÂ pneumonia,hypokalemia,113
+PneumocystisÂ cariniiÂ pneumonia,floppy,113
+PneumocystisÂ cariniiÂ pneumonia,dyspareunia,113
+PneumocystisÂ cariniiÂ pneumonia,chill,113
+PneumocystisÂ cariniiÂ pneumonia,spontaneous rupture of membranes,113
+glaucoma,food intolerance,113
+PneumocystisÂ cariniiÂ pneumonia,diarrhea,113
+malignant tumor of colon,decompensation,113
+PneumocystisÂ cariniiÂ pneumonia,myalgia,113
+PneumocystisÂ cariniiÂ pneumonia,neck stiffness,113
+PneumocystisÂ cariniiÂ pneumonia,transaminitis,113
+PneumocystisÂ cariniiÂ pneumonia,decreased body weight,113
+PneumocystisÂ cariniiÂ pneumonia,yellow sputum,113
+PneumocystisÂ cariniiÂ pneumonia,non-productive cough,113
+PneumocystisÂ cariniiÂ pneumonia,headache,113
+PneumocystisÂ cariniiÂ pneumonia,hacking cough,113
+PneumocystisÂ cariniiÂ pneumonia,productive cough,113
+diverticulosis,orthostasis,113
+manic disorder,pustule,112
+personality disorder,painful swallowing,112
+diverticulosis,unable to concentrate,112
+carcinoma breast,orthopnea,112
+hepatitis B,wheelchair bound,111
+hepatitis B,projectile vomiting,111
+hepatitis B,pain abdominal,111
+hypoglycemia,hematuria,111
+primary carcinoma of the liver cells,lung nodule,111
+suicide attempt,lesion,111
+tricuspid valve insufficiency,dizziness,111
+hepatitis B,poor feeding,111
+hepatitis B,tachypnea,111
+hepatitis B,abdominal tenderness,111
+hepatitis,clonus,111
+pyelonephritis,emphysematous change,111
+encephalopathy,hemiplegia,111
+carcinoma colon,pallor,111
+hepatitis B,moan,111
+hepatitis,pain,111
+candidiasis,fatigability,111
+hepatitis B,inappropriate affect,111
+fibroid tumor,hypotension,110
+respiratory failure,mass of body structure,110
+PneumocystisÂ cariniiÂ pneumonia,shortness of breath,110
+lymphoma,cushingoidÂ habitus,110
+candidiasis,prostatism,109
+tonic-clonic epilepsy,immobile,109
+upper respiratory infection,vertigo,109
+encephalopathy,hyperkalemia,109
+hepatitis B,haemorrhage,109
+incontinence,productive cough,109
+carcinoma of lung,sinus rhythm,109
+osteomyelitis,hunger,109
+ketoacidosis diabetic,labored breathing,108
+parkinson disease,stiffness,108
+parkinson disease,syncope,108
+pneumonia aspiration,exhaustion,108
+gastritis,distended abdomen,108
+encephalopathy,snuffle,108
+hemorrhoids,difficulty,108
+parkinson disease,facial paresis,108
+parkinson disease,orthostasis,108
+parkinson disease,worry,108
+parkinson disease,drowsiness,108
+parkinson disease,sleepy,108
+parkinson disease,hematuria,108
+parkinson disease,tremor,108
+parkinson disease,hemiplegia,108
+parkinson disease,agitation,108
+parkinson disease,withdraw,108
+parkinson disease,achalasia,108
+melanoma,polydypsia,108
+respiratory failure,uncoordination,108
+parkinson disease,fall,108
+parkinson disease,unresponsiveness,108
+lymphoma,overweight,108
+parkinson disease,night sweat,108
+candidiasis,snuffle,108
+parkinson disease,difficulty,108
+emphysema pulmonary,aura,107
+failure kidney,headache,107
+malignant tumor of colon,pain abdominal,107
+Alzheimer's disease,hypokinesia,107
+gastroenteritis,patient non compliance,107
+lymphoma,hoarseness,106
+sickle cell anemia,food intolerance,106
+oralÂ candidiasis,pain abdominal,106
+personality disorder,hypoxemia,106
+paroxysmalÂ dyspnea,decompensation,106
+upper respiratory infection,fatigue,106
+tonic-clonic epilepsy,patient non compliance,105
+neoplasm metastasis,dullness,105
+lymphoma,decreased body weight,105
+kidney disease,intoxication,105
+lymphoma,lesion,105
+lymphoma,welt,105
+lymphoma,fever,105
+lymphoma,difficulty passing urine,105
+lymphoma,haemoptysis,105
+lymphoma,fatigue,105
+lymphoma,tired,105
+lymphoma,polydypsia,105
+lymphoma,superimposition,105
+pyelonephritis,bradycardia,105
+lymphoma,tinnitus,105
+lymphoma,transaminitis,105
+obesity morbid,dysdiadochokinesia,105
+lymphoma,ataxia,105
+lymphoma,hydropneumothorax,105
+ketoacidosis diabetic,passed stones,104
+neuropathy,decreased body weight,104
+parkinson disease,patient non compliance,104
+malignant neoplasm of lung,vomiting,104
+hyperglycemia,pruritus,104
+hyperglycemia,feeling strange,104
+gastroenteritis,pain,104
+hyperglycemia,sore to touch,104
+hyperglycemia,cushingoidÂ habitus,104
+hyperglycemia,mood depressed,104
+hyperglycemia,decreased body weight,104
+hyperglycemia,seizure,104
+carcinoma colon,polydypsia,104
+carcinoma of lung,numbness,104
+carcinoma colon,unable to concentrate,104
+primary carcinoma of the liver cells,lesion,104
+hyperglycemia,ascites,104
+hyperglycemia,estrogen use,104
+hyperglycemia,wheezing,104
+tonic-clonic epilepsy,decompensation,104
+hyperglycemia,pustule,104
+hyperglycemia,cushingoid facies,104
+emphysema pulmonary,cystic lesion,104
+encephalopathy,absences finding,103
+tonic-clonic seizures,lesion,103
+encephalopathy,consciousness clear,103
+encephalopathy,posturing,103
+bronchitis,agitation,103
+encephalopathy,hypokinesia,103
+encephalopathy,thicken,103
+emphysema pulmonary,rhonchus,103
+encephalopathy,debilitation,103
+respiratory failure,ascites,103
+encephalopathy,drowsiness,103
+encephalopathy,uncoordination,103
+encephalopathy,sleepy,103
+encephalopathy,haemorrhage,103
+encephalopathy,asterixis,103
+encephalopathy,aura,103
+encephalopathy,tonic seizures,103
+encephalopathy,unresponsiveness,103
+tricuspid valve insufficiency,suicidal,102
+tonic-clonic epilepsy,hypokinesia,102
+malignantÂ neoplasms,dullness,102
+hernia,inappropriate affect,102
+carcinoma colon,side pain,102
+fibroid tumor,pain,102
+oralÂ candidiasis,paraparesis,102
+hyperglycemia,burning sensation,102
+pneumonia aspiration,decreased body weight,102
+tricuspid valve insufficiency,fever,101
+tricuspid valve insufficiency,pain abdominal,101
+tricuspid valve insufficiency,bradycardia,101
+tricuspid valve insufficiency,nausea,101
+Alzheimer's disease,tremor,101
+Alzheimer's disease,consciousness clear,101
+tricuspid valve insufficiency,impaired cognition,101
+Alzheimer's disease,bedridden,101
+Alzheimer's disease,pin-point pupils,101
+oralÂ candidiasis,cough,101
+Alzheimer's disease,out of breath,101
+personality disorder,hyponatremia,101
+Alzheimer's disease,wheelchair bound,101
+Alzheimer's disease,facial paresis,101
+Alzheimer's disease,groggy,101
+Alzheimer's disease,nightmare,101
+Alzheimer's disease,agitation,101
+melanoma,sore to touch,101
+Alzheimer's disease,muscle twitch,101
+Alzheimer's disease,tremor resting,101
+Alzheimer's disease,frail,101
+tricuspid valve insufficiency,pain,101
+Alzheimer's disease,drool,101
+tricuspid valve insufficiency,vomiting,101
+Alzheimer's disease,cough,101
+personality disorder,chill,101
+malignant neoplasm of lung,pleuritic pain,101
+tricuspid valve insufficiency,mediastinal shift,101
+tricuspid valve insufficiency,cicatrisation,101
+tonic-clonic epilepsy,feeling suicidal,101
+Alzheimer's disease,rhonchus,101
+gastritis,mass of body structure,100
+personality disorder,polymyalgia,100
+personality disorder,scar tissue,100
+emphysema pulmonary,difficulty passing urine,100
+PneumocystisÂ cariniiÂ pneumonia,tonic seizures,100
+delirium,projectile vomiting,100
+failure kidney,dyspnea,100
+suicide attempt,abdominal tenderness,100
+effusion pericardial,tremor,100
+upper respiratory infection,photopsia,99
+oralÂ candidiasis,drowsiness,99
+candidiasis,adverse reaction,99
+candidiasis,non-productive cough,99
+candidiasis,chill,99
+candidiasis,decreased body weight,99
+candidiasis,headache,99
+candidiasis,abdominal tenderness,99
+candidiasis,painful swallowing,99
+candidiasis,patient non compliance,99
+oralÂ candidiasis,non-productive cough,99
+oralÂ candidiasis,chill,99
+oralÂ candidiasis,decreased body weight,99
+candidiasis,abdominal bloating,99
+oralÂ candidiasis,throat sore,99
+oralÂ candidiasis,diarrhea,99
+neuropathy,nausea and vomiting,99
+neuropathy,numbness,99
+fibroid tumor,pressure chest,99
+neuropathy,awakening early,99
+neuropathy,asthenia,99
+oralÂ candidiasis,abdominal bloating,99
+oralÂ candidiasis,abdominal tenderness,99
+oralÂ candidiasis,headache,99
+oralÂ candidiasis,poor dentition,99
+oralÂ candidiasis,transaminitis,99
+oralÂ candidiasis,painful swallowing,99
+oralÂ candidiasis,photophobia,99
+oralÂ candidiasis,patient non compliance,99
+candidiasis,night sweat,99
+candidiasis,photophobia,99
+oralÂ candidiasis,adverse reaction,99
+oralÂ candidiasis,adverse effect,99
+candidiasis,diarrhea,99
+candidiasis,throat sore,99
+neuropathy,pain,99
+neuropathy,slowing of urinary stream,99
+neuropathy,tenesmus,99
+manic disorder,sweating increased,99
+neuropathy,superimposition,99
+neuropathy,fatigability,99
+melanoma,abnormally hard consistency,99
+neuropathy,hydropneumothorax,99
+candidiasis,poor dentition,99
+candidiasis,transaminitis,99
+candidiasis,adverse effect,99
+tonic-clonic epilepsy,tachypnea,99
+ketoacidosis diabetic,pain abdominal,98
+primary carcinoma of the liver cells,throat sore,98
+obesity morbid,heartburn,98
+carcinoma prostate,pain,98
+malignant tumor of colon,heartburn,98
+tricuspid valve insufficiency,spasm,98
+kidney disease,estrogen use,98
+pneumonia aspiration,verbally abusive behavior,97
+hyperglycemia,night sweat,97
+respiratory failure,hematuria,97
+gout,hemodynamically stable,97
+endocarditis,non-productive cough,97
+spasm bronchial,sore to touch,97
+cirrhosis,swelling,97
+ketoacidosis diabetic,extrapyramidal sign,97
+melanoma,palpitation,97
+fibroid tumor,fever,96
+fibroid tumor,heartburn,96
+fibroid tumor,para 2,96
+kidney disease,bleeding of vagina,96
+fibroid tumor,hypotonic,96
+failure heart,estrogen use,96
+fibroid tumor,abortion,96
+fibroid tumor,primigravida,96
+fibroid tumor,shortness of breath,96
+hepatitis B,vomiting,96
+fibroid tumor,haemorrhage,96
+kidney disease,hyperkalemia,96
+fibroid tumor,proteinemia,96
+kidney disease,shortness of breath,96
+malignantÂ neoplasms,pain,96
+kidney disease,gravida 0,96
+kidney disease,fever,96
+kidney disease,pain chest,96
+melanoma,hypotension,96
+malignant tumor of colon,pain,96
+personality disorder,jugular venous distention,96
+fibroid tumor,muscle hypotonia,96
+fibroid tumor,intermenstrual heavy bleeding,96
+fibroid tumor,previous pregnancies 2,96
+fibroid tumor,abnormally hard consistency,96
+glaucoma,burning sensation,95
+glaucoma,unconscious state,95
+glaucoma,hyponatremia,95
+glaucoma,lesion,95
+colitis,abdominal tenderness,95
+malignantÂ neoplasms,hepatosplenomegaly,95
+neuropathy,sleepy,95
+carcinoma colon,nonsmoker,95
+glaucoma,fall,95
+glaucoma,mass of body structure,95
+glaucoma,distended abdomen,95
+glaucoma,agitation,95
+glaucoma,unsteady gait,95
+spasm bronchial,pleuritic pain,95
+glaucoma,paresthesia,95
+carcinoma colon,nausea,94
+carcinoma colon,diarrhea,94
+carcinoma colon,general discomfort,94
+personality disorder,cyanosis,94
+carcinoma colon,bradycardia,94
+carcinoma colon,shooting pain,94
+carcinoma colon,dizzy spells,94
+pneumonia aspiration,non-productive cough,94
+carcinoma colon,vomiting,94
+carcinoma colon,systolic ejection murmur,94
+malignant tumor of colon,dizzy spells,94
+malignant tumor of colon,urinary hesitation,94
+malignant tumor of colon,general discomfort,94
+malignant tumor of colon,diarrhea,94
+personality disorder,flushing,94
+malignant tumor of colon,prostatism,94
+malignant tumor of colon,lesion,94
+neoplasm metastasis,atypia,94
+malignant tumor of colon,constipation,94
+neoplasm metastasis,mass of body structure,94
+malignant tumor of colon,nausea,94
+carcinoma colon,pain abdominal,94
+carcinoma colon,constipation,94
+oralÂ candidiasis,polyuria,94
+malignant tumor of colon,vomiting,94
+malignant tumor of colon,bradycardia,94
+neoplasm metastasis,metastatic lesion,94
+neoplasm metastasis,lung nodule,94
+neoplasm metastasis,pain,94
+neoplasm metastasis,pain neck,94
+neoplasm metastasis,food intolerance,94
+malignant tumor of colon,shooting pain,94
+fibroid tumor,decreased body weight,94
+neoplasm metastasis,thicken,94
+neoplasm metastasis,tumor cell invasion,94
+malignant tumor of colon,systolic ejection murmur,94
+malignant tumor of colon,hyperemesis,94
+glaucoma,night sweat,94
+malignant tumor of colon,polydypsia,94
+carcinoma colon,lesion,94
+carcinoma colon,hyperemesis,94
+carcinoma colon,prostatism,94
+carcinoma colon,urinary hesitation,94
+ketoacidosis diabetic,urinary hesitation,93
+ketoacidosis diabetic,regurgitates after swallowing,93
+personality disorder,unconscious state,93
+encephalopathy,sputum purulent,93
+ketoacidosis diabetic,aura,93
+ketoacidosis diabetic,polyuria,93
+ketoacidosis diabetic,vision blurred,93
+ketoacidosis diabetic,gurgle,93
+ketoacidosis diabetic,milky,93
+ketoacidosis diabetic,abdominal tenderness,93
+ketoacidosis diabetic,nervousness,93
+ketoacidosis diabetic,diarrhea,93
+ketoacidosis diabetic,nausea,93
+ketoacidosis diabetic,feeling strange,93
+ketoacidosis diabetic,seizure,93
+thrombocytopaenia,vertigo,93
+ketoacidosis diabetic,vomiting,93
+personality disorder,vomiting,93
+ketoacidosis diabetic,hirsutism,93
+tonic-clonic epilepsy,unresponsiveness,92
+tonic-clonic epilepsy,headache,92
+tonic-clonic epilepsy,myoclonus,92
+tonic-clonic epilepsy,lip smacking,92
+tonic-clonic seizures,tremor,92
+tonic-clonic epilepsy,ambidexterity,92
+tonic-clonic epilepsy,tumor cell invasion,92
+tonic-clonic epilepsy,decreased body weight,92
+tonic-clonic epilepsy,spasm,92
+tonic-clonic epilepsy,absences finding,92
+tonic-clonic seizures,drowsiness,92
+tonic-clonic seizures,phonophobia,92
+tonic-clonic epilepsy,muscle twitch,92
+tonic-clonic epilepsy,tremor,92
+tonic-clonic seizures,sleepy,92
+tonic-clonic seizures,rolling of eyes,92
+tonic-clonic seizures,hirsutism,92
+tonic-clonic epilepsy,phonophobia,92
+tonic-clonic epilepsy,rolling of eyes,92
+tonic-clonic epilepsy,sleepy,92
+tonic-clonic epilepsy,hirsutism,92
+tonic-clonic epilepsy,moody,92
+dependence,hyperemesis,92
+tonic-clonic epilepsy,drowsiness,92
+fibroid tumor,paralyse,92
+upper respiratory infection,abdominal tenderness,92
+tonic-clonic seizures,moody,92
+tonic-clonic seizures,unresponsiveness,92
+tonic-clonic seizures,muscle twitch,92
+tonic-clonic seizures,headache,92
+tonic-clonic seizures,ambidexterity,92
+tonic-clonic seizures,lip smacking,92
+tonic-clonic seizures,myoclonus,92
+tonic-clonic seizures,absences finding,92
+tonic-clonic seizures,spasm,92
+tonic-clonic seizures,decreased body weight,92
+tonic-clonic seizures,tumor cell invasion,92
+neoplasm metastasis,welt,91
+endocarditis,asthenia,91
+primary carcinoma of the liver cells,dyspnea,91
+oralÂ candidiasis,spasm,91
+tricuspid valve insufficiency,lung nodule,91
+neutropenia,hirsutism,91
+parkinson disease,wheezing,91
+neutropenia,apyrexial,91
+ketoacidosis diabetic,headache,91
+respiratory failure,hemiplegia,90
+carcinoma colon,fatigue,90
+malignantÂ neoplasms,heartburn,90
+suicide attempt,debilitation,90
+hepatitis B,abscess bacterial,90
+malignantÂ neoplasms,hypotension,90
+respiratory failure,hypokinesia,90
+respiratory failure,hyperkalemia,90
+respiratory failure,tachypnea,90
+respiratory failure,dyspnea,90
+respiratory failure,productive cough,90
+respiratory failure,unresponsiveness,90
+respiratory failure,snore,90
+pneumonia aspiration,asthenia,90
+malignantÂ neoplasms,food intolerance,90
+malignantÂ neoplasms,distress respiratory,90
+osteomyelitis,formication,90
+malignantÂ neoplasms,chill,90
+malignantÂ neoplasms,decreased translucency,90
+malignantÂ neoplasms,pain abdominal,90
+upper respiratory infection,hemiplegia,90
+respiratory failure,shortness of breath,90
+respiratory failure,consciousness clear,90
+respiratory failure,bruit,90
+respiratory failure,general unsteadiness,90
+carcinoma of lung,mass of body structure,90
+respiratory failure,redness,90
+respiratory failure,lesion,90
+tonic-clonic epilepsy,seizure,90
+malignantÂ neoplasms,lesion,90
+malignantÂ neoplasms,thicken,90
+hepatitis B,disturbed family,90
+malignantÂ neoplasms,night sweat,90
+malignantÂ neoplasms,pulsusÂ paradoxus,90
+malignantÂ neoplasms,gravida 10,90
+malignantÂ neoplasms,mass of body structure,90
+lymphoma,neck stiffness,89
+hemorrhoids,hyponatremia,89
+deglutition disorder,presence of q wave,89
+primary carcinoma of the liver cells,labored breathing,89
+endocarditis,rhonchus,89
+fibroid tumor,ascites,89
+hepatitis,thicken,89
+neutropenia,withdraw,89
+glaucoma,decreased body weight,89
+deglutition disorder,cicatrisation,89
+oralÂ candidiasis,breath sounds decreased,89
+glaucoma,breech presentation,89
+malignant neoplasm of lung,cardiomegaly,89
+tonic-clonic epilepsy,vomiting,89
+personality disorder,"hypothermia, natural",89
+malignantÂ neoplasms,panic,89
+oralÂ candidiasis,metastatic lesion,88
+oralÂ candidiasis,hyperacusis,88
+tonic-clonic seizures,enuresis,88
+ketoacidosis diabetic,fremitus,88
+primary carcinoma of the liver cells,patient non compliance,88
+neoplasm metastasis,sore to touch,88
+suicide attempt,cardiomegaly,88
+melanoma,diarrhea,87
+melanoma,vomiting,87
+carcinoma colon,cushingoid facies,87
+gastroenteritis,pain abdominal,87
+personality disorder,erythema,87
+respiratory failure,worry,87
+melanoma,pruritus,87
+melanoma,mass in breast,87
+melanoma,syncope,87
+fibroid tumor,formication,87
+gastroenteritis,decreased body weight,87
+gastroenteritis,sore to touch,87
+hemorrhoids,prostatism,87
+deglutition disorder,guaiac positive,87
+respiratory failure,sleepy,87
+melanoma,pain,87
+melanoma,fever,87
+melanoma,gravida 0,87
+emphysema pulmonary,sleepy,87
+candidiasis,paralyse,87
+melanoma,mass of body structure,87
+melanoma,paraparesis,87
+gastroenteritis,myalgia,87
+gastroenteritis,breath-holding spell,87
+gastroenteritis,scleralÂ icterus,87
+malignant neoplasm of lung,tired,87
+manic disorder,decreased body weight,87
+gastroenteritis,mass of body structure,87
+gastroenteritis,retch,87
+gastroenteritis,hyponatremia,87
+gastroenteritis,nausea,87
+pericardial effusion body substance,bowel sounds decreased,87
+kidney disease,bedridden,87
+colitis,dyspnea,87
+gastroenteritis,fever,87
+pyelonephritis,hypoproteinemia,87
+effusion pericardial,overweight,86
+herniaÂ hiatal,urinary hesitation,86
+pericardial effusion body substance,scleralÂ icterus,86
+malignant neoplasm of lung,decreased translucency,86
+malignant neoplasm of lung,asthenia,86
+carcinoma of lung,asthenia,86
+carcinoma of lung,metastatic lesion,86
+carcinoma of lung,agitation,86
+carcinoma of lung,irritable mood,86
+carcinoma of lung,decreased translucency,86
+malignant neoplasm of lung,haemoptysis,86
+carcinoma of lung,night sweat,86
+carcinoma of lung,rale,86
+malignant neoplasm of lung,agitation,86
+malignant neoplasm of lung,metastatic lesion,86
+tonic-clonic epilepsy,cushingoid facies,86
+malignant neoplasm of lung,irritable mood,86
+carcinoma of lung,cough,86
+carcinoma of lung,lesion,86
+carcinoma of lung,shortness of breath,86
+carcinoma of lung,lung nodule,86
+malignant neoplasm of lung,shortness of breath,86
+malignant neoplasm of lung,cough,86
+hyperbilirubinemia,sore to touch,86
+malignant neoplasm of lung,lesion,86
+carcinoma of lung,ache,86
+carcinoma of lung,gurgle,86
+carcinoma of lung,haemoptysis,86
+carcinoma of lung,debilitation,86
+endocarditis,groggy,86
+malignant neoplasm of lung,lung nodule,86
+carcinoma prostate,intoxication,86
+malignant neoplasm of lung,debilitation,86
+malignant neoplasm of lung,gurgle,86
+malignant neoplasm of lung,ache,86
+malignant neoplasm of lung,rale,86
+malignant neoplasm of lung,night sweat,86
+manic disorder,hallucinations visual,85
+manic disorder,feeling hopeless,85
+manic disorder,aura,85
+spasm bronchial,distress respiratory,85
+chronic alcoholic intoxication,tumor cell invasion,85
+manic disorder,feeling suicidal,85
+manic disorder,hypersomnia,85
+manic disorder,suicidal,85
+malignant neoplasm of lung,regurgitates after swallowing,85
+manic disorder,hallucinations auditory,85
+manic disorder,difficulty,85
+manic disorder,decompensation,85
+manic disorder,verbally abusive behavior,85
+gastroenteritis,bedridden,85
+manic disorder,blanch,85
+manic disorder,energy increased,85
+effusion pericardial,bedridden,85
+manic disorder,verbal auditory hallucinations,85
+manic disorder,elation,85
+personality disorder,irritable mood,84
+personality disorder,weepiness,84
+personality disorder,hirsutism,84
+personality disorder,feeling hopeless,84
+personality disorder,transsexual,84
+respiratory failure,fatigability,84
+personality disorder,sleeplessness,84
+personality disorder,hallucinations auditory,84
+personality disorder,agitation,84
+respiratory failure,has religious belief,84
+personality disorder,mood depressed,84
+personality disorder,nightmare,84
+Alzheimer's disease,formication,84
+aphasia,bradycardia,84
+personality disorder,pruritus,84
+hemorrhoids,decreased body weight,84
+personality disorder,homelessness,84
+personality disorder,side pain,84
+personality disorder,nervousness,84
+personality disorder,enuresis,84
+personality disorder,extreme exhaustion,84
+chronic alcoholic intoxication,cardiovascular finding,84
+colitis,jugular venous distention,84
+pyelonephritis,cough,84
+personality disorder,scratch marks,84
+personality disorder,nausea and vomiting,84
+primary carcinoma of the liver cells,ambidexterity,83
+pericardial effusion body substance,patient non compliance,83
+influenza,gurgle,83
+emphysema pulmonary,distended abdomen,83
+Alzheimer's disease,swelling,83
+primary carcinoma of the liver cells,cachexia,82
+emphysema pulmonary,pain abdominal,82
+primary carcinoma of the liver cells,shortness of breath,82
+melanoma,intoxication,82
+primary carcinoma of the liver cells,thicken,82
+primary carcinoma of the liver cells,splenomegaly,82
+primary carcinoma of the liver cells,paresis,82
+primary carcinoma of the liver cells,mass of body structure,82
+primary carcinoma of the liver cells,indifferent mood,82
+primary carcinoma of the liver cells,haemorrhage,82
+obesity morbid,estrogen use,82
+primary carcinoma of the liver cells,decreased body weight,82
+primary carcinoma of the liver cells,"hypothermia, natural",82
+primary carcinoma of the liver cells,tumor cell invasion,82
+primary carcinoma of the liver cells,room spinning,82
+primary carcinoma of the liver cells,cough,82
+primary carcinoma of the liver cells,stupor,82
+primary carcinoma of the liver cells,pain abdominal,82
+primary carcinoma of the liver cells,hepatomegaly,82
+primary carcinoma of the liver cells,hematocrit decreased,82
+primary carcinoma of the liver cells,bradycardia,81
+gastroenteritis,withdraw,81
+malignant neoplasm of lung,poor dentition,81
+personality disorder,feels hot/feverish,81
+manic disorder,dyspnea on exertion,81
+gastroenteritis,cushingoidÂ habitus,81
+endocarditis,verbal auditory hallucinations,81
+emphysema pulmonary,cushingoidÂ habitus,81
+malignant tumor of colon,pruritus,80
+emphysema pulmonary,scar tissue,80
+emphysema pulmonary,dyspnea on exertion,80
+hemorrhoids,numbness of hand,80
+pneumothorax,headache,80
+encephalopathy,photophobia,80
+emphysema pulmonary,choke,80
+emphysema pulmonary,rale,80
+emphysema pulmonary,dyspnea,80
+manic disorder,catatonia,80
+emphysema pulmonary,arthralgia,80
+emphysema pulmonary,painful swallowing,80
+emphysema pulmonary,flushing,80
+influenza,pruritus,80
+hemorrhoids,haemorrhage,80
+hemorrhoids,bowel sounds decreased,80
+hemorrhoids,guaiac positive,80
+hemorrhoids,hunger,80
+hemorrhoids,nausea and vomiting,80
+hemorrhoids,decreased stool caliber,80
+emphysema pulmonary,tenesmus,80
+emphysema pulmonary,constipation,80
+manic disorder,mental status changes,80
+emphysema pulmonary,night sweat,80
+effusion pericardial,mass of body structure,80
+candidiasis,paresthesia,80
+emphysema pulmonary,moan,80
+emphysema pulmonary,room spinning,80
+aphasia,orthopnea,80
+emphysema pulmonary,symptom aggravating factors,80
+encephalopathy,swelling,80
+hemorrhoids,wheezing,80
+hemorrhoids,cough,80
+Alzheimer's disease,unresponsiveness,80
+emphysema pulmonary,coordination abnormal,80
+obesity morbid,pain,80
+emphysema pulmonary,clammy skin,80
+emphysema pulmonary,cachexia,80
+sickle cell anemia,stupor,80
+hemorrhoids,burning sensation,80
+hemorrhoids,pain,80
+hemorrhoids,achalasia,80
+hemorrhoids,clonus,80
+emphysema pulmonary,myalgia,80
+hemorrhoids,dizziness,80
+hemorrhoids,diarrhea,80
+emphysema pulmonary,has religious belief,80
+emphysema pulmonary,behavior showing increased motor activity,80
+emphysema pulmonary,hypercapnia,80
+lymphoma,rest pain,80
+malignantÂ neoplasms,ecchymosis,79
+chronic alcoholic intoxication,inappropriate affect,79
+neoplasm metastasis,consciousness clear,79
+Alzheimer's disease,sedentary,79
+melanoma,distress respiratory,79
+glaucoma,diarrhea,79
+chronic alcoholic intoxication,absences finding,79
+carcinoma prostate,macerated skin,79
+malignantÂ neoplasms,symptom aggravating factors,79
+neutropenia,hypokinesia,79
+spasm bronchial,lesion,79
+thrombus,pain abdominal,78
+diverticulosis,weepiness,78
+aphasia,unresponsiveness,78
+Alzheimer's disease,hyperventilation,78
+carcinoma of lung,asterixis,77
+spasm bronchial,dizzy spells,77
+hemorrhoids,palpitation,77
+malignant neoplasm of lung,hallucinations visual,77
+ketoacidosis diabetic,pleuritic pain,77
+personality disorder,productive cough,77
+spasm bronchial,drowsiness,77
+primary carcinoma of the liver cells,seizure,77
+hemorrhoids,tremor,77
+candidiasis,syncope,76
+malignant neoplasm of lung,indifferent mood,76
+kidney disease,paralyse,76
+spasm bronchial,vomiting,76
+spasm bronchial,throat sore,76
+spasm bronchial,dyspnea,76
+spasm bronchial,chest tightness,76
+spasm bronchial,hypoxemia,76
+spasm bronchial,tachypnea,76
+spasm bronchial,productive cough,76
+spasm bronchial,fever,76
+spasm bronchial,sensory discomfort,76
+spasm bronchial,pain,76
+spasm bronchial,no known drug allergies,76
+obesity morbid,renal angle tenderness,76
+endocarditis,suicidal,76
+candidiasis,cachexia,76
+hyperbilirubinemia,panic,76
+obesity morbid,feels hot/feverish,76
+obesity morbid,wheezing,76
+obesity morbid,hypoxemia,76
+obesity morbid,out of breath,76
+aphasia,charleyhorse,76
+aphasia,low back pain,76
+obesity morbid,cough,76
+obesity morbid,unhappy,76
+obesity morbid,dyspnea,76
+primary carcinoma of the liver cells,pain,76
+carcinoma of lung,facial paresis,76
+aphasia,egophony,76
+aphasia,clonus,76
+spasm bronchial,fremitus,76
+spasm bronchial,hemiplegia,76
+spasm bronchial,rhonchus,76
+obesity morbid,"hypothermia, natural",76
+obesity morbid,hematocrit decreased,76
+obesity morbid,labored breathing,76
+obesity morbid,sedentary,76
+obesity morbid,angina pectoris,76
+aphasia,muscle twitch,76
+aphasia,aphagia,76
+aphasia,facial paresis,76
+spasm bronchial,scar tissue,76
+spasm bronchial,shortness of breath,76
+malignant neoplasm of lung,pericardial friction rub,76
+spasm bronchial,apyrexial,76
+aphasia,paralyse,76
+aphasia,diarrhea,76
+spasm bronchial,wheezing,76
+emphysema pulmonary,catatonia,75
+pyelonephritis,catatonia,75
+encephalopathy,guaiac positive,75
+primary carcinoma of the liver cells,nausea,75
+effusion pericardial,dyspnea on exertion,75
+hemorrhoids,patient non compliance,75
+emphysema pulmonary,polydypsia,75
+carcinoma colon,decompensation,75
+spasm bronchial,shooting pain,75
+personality disorder,orthostasis,75
+pericardial effusion body substance,cough,74
+pyelonephritis,urgency ofÂ micturition,74
+pyelonephritis,pain,74
+pyelonephritis,fever,74
+endocarditis,difficulty passing urine,74
+pyelonephritis,diarrhea,74
+pyelonephritis,chill,74
+pyelonephritis,myalgia,74
+pyelonephritis,pain abdominal,74
+primary carcinoma of the liver cells,sweating increased,74
+emphysema pulmonary,cardiovascular finding,74
+primary carcinoma of the liver cells,pericardial friction rub,74
+pyelonephritis,nausea,74
+pyelonephritis,vomiting,74
+pyelonephritis,hematuria,74
+carcinoma colon,pleuritic pain,74
+endocarditis,wheezing,74
+emphysema pulmonary,myoclonus,73
+effusion pericardial,difficulty,73
+hyperglycemia,mass in breast,73
+emphysema pulmonary,sore to touch,73
+hemorrhoids,egophony,73
+PneumocystisÂ cariniiÂ pneumonia,breech presentation,73
+hemorrhoids,seizure,73
+neuropathy,tinnitus,73
+tricuspid valve insufficiency,orthostasis,73
+carcinoma of lung,homelessness,73
+aphasia,withdraw,72
+neutropenia,night sweat,72
+colitis,hyponatremia,72
+cholecystitis,guaiac positive,72
+malignant neoplasm of lung,dyspnea on exertion,72
+obesity morbid,tumor cell invasion,72
+hyperbilirubinemia,pruritus,72
+tonic-clonic seizures,panic,72
+personality disorder,suicidal,72
+personality disorder,verbal auditory hallucinations,72
+malignant tumor of colon,neologism,72
+Alzheimer's disease,night sweat,72
+encephalopathy,distress respiratory,71
+pericardial effusion body substance,shortness of breath,71
+influenza,disequilibrium,71
+pericardial effusion body substance,pericardial friction rub,71
+pericardial effusion body substance,dyspnea,71
+pericardial effusion body substance,cardiomegaly,71
+pericardial effusion body substance,hemodynamically stable,71
+delirium,hirsutism,71
+effusion pericardial,hypokinesia,71
+lymphoma,paraparesis,71
+endocarditis,breath sounds decreased,71
+effusion pericardial,pain,71
+effusion pericardial,oliguria,71
+effusion pericardial,blackout,71
+effusion pericardial,dyspnea,71
+effusion pericardial,shortness of breath,71
+effusion pericardial,pericardial friction rub,71
+endocarditis,hypokinesia,71
+endocarditis,hypotension,71
+endocarditis,pulsusÂ paradoxus,71
+endocarditis,decreased body weight,71
+endocarditis,cough,71
+colitis,redness,71
+personality disorder,bowel sounds decreased,71
+mitral valve insufficiency,breech presentation,71
+effusion pericardial,sputum purulent,71
+effusion pericardial,hypotension,71
+effusion pericardial,cardiomegaly,71
+effusion pericardial,hemodynamically stable,71
+endocarditis,metastatic lesion,71
+herniaÂ hiatal,photophobia,71
+tachycardia sinus,atypia,71
+endocarditis,flare,71
+endocarditis,shortness of breath,71
+endocarditis,pleuritic pain,71
+effusion pericardial,intoxication,71
+endocarditis,myalgia,71
+endocarditis,apyrexial,71
+endocarditis,night sweat,71
+endocarditis,thicken,71
+pericardial effusion body substance,blackout,71
+pericardial effusion body substance,intoxication,71
+pericardial effusion body substance,facial paresis,71
+pericardial effusion body substance,oliguria,71
+pericardial effusion body substance,hypotension,71
+pericardial effusion body substance,sputum purulent,71
+pericardial effusion body substance,pain,71
+effusion pericardial,facial paresis,71
+endocarditis,orthopnea,71
+endocarditis,abscess bacterial,71
+chronic alcoholic intoxication,breath sounds decreased,70
+chronic alcoholic intoxication,shortness of breath,70
+chronic alcoholic intoxication,panic,70
+chronic alcoholic intoxication,unconscious state,70
+chronic alcoholic intoxication,feeling hopeless,70
+chronic alcoholic intoxication,irritable mood,70
+chronic alcoholic intoxication,feeling suicidal,70
+chronic alcoholic intoxication,neologism,70
+chronic alcoholic intoxication,homelessness,70
+chronic alcoholic intoxication,seizure,70
+chronic alcoholic intoxication,sleeplessness,70
+malignantÂ neoplasms,scar tissue,70
+neutropenia,sore to touch,70
+carcinoma colon,pain,70
+pericardial effusion body substance,general discomfort,70
+cholelithiasis,distended abdomen,70
+migraine disorders,polymyalgia,70
+chronic alcoholic intoxication,tremor,70
+chronic alcoholic intoxication,hoard,70
+chronic alcoholic intoxication,suicidal,70
+chronic alcoholic intoxication,hallucinations auditory,70
+personality disorder,paralyse,70
+pyelonephritis,seizure,69
+primary carcinoma of the liver cells,headache,69
+pyelonephritis,anosmia,69
+carcinoma of lung,seizure,69
+hyperglycemia,lightheadedness,69
+personality disorder,cushingoidÂ habitus,69
+personality disorder,dysarthria,69
+oralÂ candidiasis,ache,69
+carcinoma of lung,guaiac positive,69
+neuropathy,"hypothermia, natural",69
+chronic alcoholic intoxication,night sweat,69
+effusion pericardial,rale,69
+herniaÂ hiatal,unsteady gait,69
+spasm bronchial,egophony,69
+emphysema pulmonary,diarrhea,69
+malignant neoplasm of lung,tachypnea,69
+primary carcinoma of the liver cells,prostate tender,69
+influenza,sneeze,68
+delirium,suicidal,68
+delirium,fever,68
+pyelonephritis,distended abdomen,68
+spasm bronchial,difficulty,68
+influenza,snore,68
+influenza,shortness of breath,68
+influenza,blackout,68
+influenza,distress respiratory,68
+pneumothorax,haemoptysis,68
+pneumothorax,cardiovascular event,68
+pneumothorax,dyspnea,68
+pneumothorax,cardiovascular finding,68
+pneumothorax,cough,68
+influenza,green sputum,68
+influenza,extreme exhaustion,68
+influenza,headache,68
+influenza,pleuritic pain,68
+influenza,throat sore,68
+influenza,fever,68
+hyperbilirubinemia,para 1,68
+delirium,loose associations,68
+dependence,rale,68
+influenza,malaise,68
+hyperbilirubinemia,cushingoid facies,68
+hyperbilirubinemia,breech presentation,68
+hyperbilirubinemia,cushingoidÂ habitus,68
+hyperbilirubinemia,cough,68
+hyperbilirubinemia,bradycardia,68
+delirium,withdraw,68
+delirium,hallucinations auditory,68
+delirium,sleepy,68
+neutropenia,chill,68
+neutropenia,oliguria,68
+neutropenia,hypocalcemia result,68
+neutropenia,monoclonal,68
+neutropenia,distress respiratory,68
+neutropenia,rhd positive,68
+hyperbilirubinemia,tachypnea,68
+hyperbilirubinemia,cyanosis,68
+neutropenia,snuffle,68
+delirium,unsteady gait,68
+pneumothorax,agitation,68
+pneumothorax,prostatism,68
+delirium,unresponsiveness,68
+delirium,feeling suicidal,68
+delirium,drowsiness,68
+delirium,worry,68
+neutropenia,transaminitis,68
+delirium,diarrhea,68
+tonic-clonic seizures,fever,68
+malignant neoplasm of lung,headache,68
+pericardial effusion body substance,urgency ofÂ micturition,68
+neutropenia,splenomegaly,68
+influenza,lip smacking,68
+influenza,chill,68
+neutropenia,cough,68
+neutropenia,lesion,68
+pneumothorax,hypercapnia,68
+influenza,uncoordination,68
+hyperbilirubinemia,myalgia,68
+influenza,snuffle,68
+influenza,symptom aggravating factors,68
+glaucoma,underweight,68
+melanoma,distended abdomen,68
+influenza,debilitation,68
+influenza,scleralÂ icterus,68
+influenza,dysuria,68
+influenza,nasal flaring,68
+delirium,hyponatremia,68
+delirium,verbally abusive behavior,68
+pneumothorax,soft tissue swelling,68
+emphysema pulmonary,underweight,67
+dependence,tremor,67
+primary carcinoma of the liver cells,pustule,67
+dependence,agitation,67
+dependence,intoxication,67
+thrombus,pruritus,67
+dependence,suicidal,67
+dependence,stuffy nose,67
+thrombus,hypokinesia,67
+malignantÂ neoplasms,transaminitis,67
+thrombus,stool color yellow,67
+thrombus,facial paresis,67
+thrombus,vomiting,67
+thrombus,hemodynamically stable,67
+dependence,feeling hopeless,67
+dependence,muscle twitch,67
+dependence,seizure,67
+upper respiratory infection,transaminitis,67
+dependence,lethargy,67
+dependence,prostatism,67
+dependence,homelessness,67
+thrombus,sore to touch,67
+obesity morbid,superimposition,67
+dependence,heavy legs,67
+thrombus,hypoalbuminemia,67
+thrombus,hypertonicity,67
+thrombus,shortness of breath,67
+thrombus,anorexia,67
+dependence,transaminitis,66
+pericardial effusion body substance,headache,66
+delirium,hepatomegaly,66
+cholecystitis,cardiovascular event,66
+cholecystitis,cardiovascular finding,66
+influenza,loose associations,66
+tonic-clonic epilepsy,guaiac positive,66
+chronic alcoholic intoxication,apyrexial,66
+cholecystitis,qt interval prolonged,66
+cholecystitis,pain,66
+cholecystitis,diarrhea,66
+cholecystitis,ascites,66
+cholecystitis,nausea,66
+cholecystitis,pain abdominal,66
+cholecystitis,Murphy's sign,66
+cholecystitis,moan,66
+cholecystitis,abnormally hard consistency,66
+cholecystitis,feces in rectum,66
+cholecystitis,gasping for breath,66
+cholecystitis,constipation,66
+cholecystitis,sinus rhythm,66
+cholecystitis,groggy,66
+cholecystitis,flatulence,66
+cholecystitis,colic abdominal,66
+malignantÂ neoplasms,sleepy,65
+emphysema pulmonary,disequilibrium,65
+hemorrhoids,pruritus,65
+colitis,productive cough,65
+malignant tumor of colon,Stahli's line,64
+ketoacidosis diabetic,cushingoid facies,64
+neutropenia,drool,64
+malignant tumor of colon,photophobia,64
+ketoacidosis diabetic,paraparesis,63
+Alzheimer's disease,no known drug allergies,63
+pericardial effusion body substance,sneeze,63
+pyelonephritis,fremitus,63
+candidiasis,lethargy,63
+obesity morbid,facial paresis,63
+candidiasis,posturing,63
+chronic alcoholic intoxication,prostatism,62
+primary carcinoma of the liver cells,cardiovascular finding,62
+aphasia,transaminitis,62
+herniaÂ hiatal,mental status changes,62
+carcinoma colon,sore to touch,62
+pyelonephritis,drowsiness,62
+hemorrhoids,flushing,62
+thrombus,abdominal bloating,62
+effusion pericardial,egophony,62
+pericardial effusion body substance,vision blurred,62
+delirium,pain abdominal,62
+hemorrhoids,photophobia,62
+aphasia,consciousness clear,62
+chronic alcoholic intoxication,withdraw,62
+dependence,lung nodule,62
+carcinoma of lung,hypotension,62
+malignant neoplasm of lung,pain chest,62
+cholelithiasis,palpitation,61
+cholelithiasis,diarrhea,61
+cholelithiasis,apyrexial,61
+herniaÂ hiatal,dyspnea on exertion,61
+herniaÂ hiatal,general discomfort,61
+herniaÂ hiatal,sore to touch,61
+herniaÂ hiatal,fatigability,61
+herniaÂ hiatal,hyponatremia,61
+herniaÂ hiatal,vomiting,61
+herniaÂ hiatal,myalgia,61
+malignant neoplasm of lung,feeling suicidal,61
+tonic-clonic seizures,diarrhea,61
+biliary calculus,apyrexial,61
+biliary calculus,palpitation,61
+cholelithiasis,pain abdominal,61
+cholelithiasis,nausea,61
+pancytopenia,colic abdominal,61
+cholelithiasis,vomiting,61
+cholelithiasis,cushingoidÂ habitus,61
+cholelithiasis,ascites,61
+cholelithiasis,pain,61
+cholelithiasis,cushingoid facies,61
+migraine disorders,dizziness,61
+migraine disorders,numbness,61
+herniaÂ hiatal,guaiac positive,61
+herniaÂ hiatal,numbness of hand,61
+biliary calculus,diarrhea,61
+obesity morbid,agitation,61
+spasm bronchial,mass of body structure,61
+pancytopenia,cushingoid facies,61
+pancytopenia,cushingoidÂ habitus,61
+pancytopenia,stool color yellow,61
+migraine disorders,nausea,61
+migraine disorders,fever,61
+cholelithiasis,thicken,61
+cholelithiasis,sore to touch,61
+pancytopenia,fatigability,61
+migraine disorders,splenomegaly,61
+pancytopenia,hypoproteinemia,61
+herniaÂ hiatal,pain abdominal,61
+herniaÂ hiatal,prodrome,61
+herniaÂ hiatal,nausea,61
+biliary calculus,sore to touch,61
+biliary calculus,thicken,61
+biliary calculus,cushingoid facies,61
+herniaÂ hiatal,asterixis,61
+biliary calculus,pain abdominal,61
+biliary calculus,nausea,61
+spasm bronchial,stuffy nose,61
+biliary calculus,vomiting,61
+biliary calculus,ascites,61
+biliary calculus,cushingoidÂ habitus,61
+biliary calculus,pain,61
+obesity morbid,night sweat,61
+pyelonephritis,urge incontinence,61
+herniaÂ hiatal,mass of body structure,61
+hemorrhoids,dyspnea,61
+pancytopenia,fatigue,61
+pancytopenia,haemorrhage,61
+herniaÂ hiatal,headache,61
+migraine disorders,vomiting,61
+migraine disorders,ambidexterity,61
+obesity morbid,bedridden,60
+carcinoma of lung,spasm,60
+chronic alcoholic intoxication,metastatic lesion,60
+obesity morbid,spontaneous rupture of membranes,60
+cholecystitis,dyspnea on exertion,60
+neutropenia,room spinning,60
+effusion pericardial,uncoordination,60
+influenza,productive cough,60
+migraine disorders,agitation,60
+primary carcinoma of the liver cells,proteinemia,60
+obesity morbid,constipation,60
+dependence,red blotches,60
+carcinoma of lung,muscle twitch,60
+obesity morbid,cushingoid facies,60
+personality disorder,decreased body weight,60
+oralÂ candidiasis,pain,60
+cholecystitis,prostatism,60
+herniaÂ hiatal,bedridden,60
+pneumothorax,pin-point pupils,59
+effusion pericardial,abnormally hard consistency,59
+carcinoma of lung,snore,59
+hyperbilirubinemia,has religious belief,59
+influenza,hallucinations auditory,59
+spasm bronchial,absences finding,59
+spasm bronchial,cardiovascular event,59
+carcinoma colon,behavior hyperactive,59
+influenza,numbness,59
+effusion pericardial,enuresis,59
+endocarditis,leftÂ atrialÂ hypertrophy,59
+personality disorder,apyrexial,59
+endocarditis,hematocrit decreased,59
+dependence,unconscious state,59
+neoplasm metastasis,cough,58
+respiratory failure,guaiac positive,58
+malignant neoplasm of lung,pallor,58
+endocarditis,haemorrhage,58
+spasm bronchial,hallucinations visual,58
+obesity morbid,unconscious state,58
+cholecystitis,inappropriate affect,58
+kidney disease,pulse absent,58
+chronic alcoholic intoxication,rale,58
+thrombus,asterixis,58
+gastroenteritis,haemorrhage,58
+aphasia,hematuria,57
+cholecystitis,burning sensation,57
+adhesion,pain,57
+adhesion,breech presentation,57
+adhesion,shortness of breath,57
+obesity morbid,swelling,57
+adhesion,decreased body weight,57
+adhesion,feeling suicidal,57
+adhesion,unsteady gait,57
+adhesion,large-for-dates fetus,57
+endocarditis,polymyalgia,57
+neutropenia,suicidal,57
+cholecystitis,food intolerance,57
+personality disorder,verbally abusive behavior,57
+pericardial effusion body substance,hypotonic,57
+tachycardia sinus,lesion,57
+melanoma,rhonchus,57
+adhesion,lung nodule,57
+adhesion,immobile,57
+adhesion,flatulence,57
+adhesion,hallucinations visual,57
+adhesion,vomiting,57
+adhesion,para 1,57
+delirium,incoherent,56
+endocarditis,agitation,56
+tachycardia sinus,pressure chest,56
+tachycardia sinus,scar tissue,56
+biliary calculus,night sweat,56
+neutropenia,urinary hesitation,56
+tachycardia sinus,sweat,56
+tachycardia sinus,sweating increased,56
+tachycardia sinus,alcohol binge episode,56
+tachycardia sinus,leftÂ atrialÂ hypertrophy,56
+ileus,abdominal tenderness,56
+ileus,nausea,56
+ileus,catching breath,56
+pneumothorax,scratch marks,56
+spasm bronchial,stiffness,56
+pericardial effusion body substance,non-productive cough,56
+dependence,cardiomegaly,56
+tachycardia sinus,vomiting,56
+ileus,flatulence,56
+ileus,diarrhea,56
+ileus,mass of body structure,56
+ileus,apyrexial,56
+ileus,abscess bacterial,56
+tachycardia sinus,pain abdominal,56
+ileus,air fluid level,56
+ileus,abdomen acute,56
+tachycardia sinus,t wave inverted,56
+delusion,worry,56
+tachycardia sinus,shortness of breath,56
+tachycardia sinus,orthostasis,56
+tachycardia sinus,cardiovascular finding,56
+tachycardia sinus,cardiovascular event,56
+delusion,disturbed family,56
+ileus,sore to touch,56
+delusion,agitation,56
+pyelonephritis,feeling hopeless,56
+manic disorder,debilitation,56
+emphysema pulmonary,fatigue,56
+ileus,thicken,56
+ileus,gravida 0,56
+ileus,constipation,56
+delusion,loose associations,56
+ileus,pain abdominal,56
+delusion,hallucinations auditory,56
+delusion,giddy mood,56
+delusion,feeling hopeless,56
+pyelonephritis,superimposition,56
+delusion,suicidal,56
+delusion,catatonia,56
+delusion,verbally abusive behavior,56
+spasm bronchial,guaiac positive,56
+delusion,decompensation,56
+delusion,irritable mood,56
+delusion,impaired cognition,56
+delusion,sleeplessness,56
+delusion,homicidal thoughts,56
+delusion,neologism,56
+delusion,terrify,56
+hemorrhoids,sleeplessness,56
+delusion,weepiness,56
+dependence,hypesthesia,56
+delusion,blackout,56
+cholecystitis,decreased translucency,56
+pyelonephritis,asthenia,56
+delirium,hemodynamically stable,55
+gastroenteritis,hypotension,55
+malignant tumor of colon,chill,55
+aphasia,night sweat,55
+hyperbilirubinemia,numbness,55
+ketoacidosis diabetic,hemodynamically stable,55
+carcinoma of lung,bleeding of vagina,54
+cholecystitis,exhaustion,54
+neutropenia,urge incontinence,54
+chronic alcoholic intoxication,bradycardia,54
+chronic alcoholic intoxication,soft tissue swelling,54
+dependence,worry,54
+hemorrhoids,withdraw,54
+spasm bronchial,yellow sputum,54
+tachycardia sinus,cough,53
+migraine disorders,colic abdominal,53
+biliary calculus,painful swallowing,53
+cholecystitis,hypotension,53
+chronic alcoholic intoxication,scar tissue,53
+personality disorder,spasm,53
+ileus,urge incontinence,53
+influenza,room spinning,53
+hyperbilirubinemia,lesion,53
+tonic-clonic epilepsy,hematocrit decreased,53
+biliary calculus,stool color yellow,53
+influenza,hypotension,52
+spasm bronchial,abdominal bloating,52
+cholecystitis,lesion,52
+malignant neoplasm of lung,poor feeding,52
+influenza,oliguria,52
+delirium,decreased body weight,52
+cholelithiasis,large-for-dates fetus,52
+cholelithiasis,fall,52
+pneumothorax,decreased translucency,52
+primary carcinoma of the liver cells,pansystolic murmur,52
+aphasia,disturbed family,52
+influenza,achalasia,52
+tachycardia sinus,mass of body structure,51
+hyperbilirubinemia,fatigability,51
+pancytopenia,tenesmus,51
+hemorrhoids,sleepy,51
+neutropenia,abdominal tenderness,51
+effusion pericardial,urinary hesitation,51
+pericardial effusion body substance,haemorrhage,51
+cholecystitis,has religious belief,51
+personality disorder,poor dentition,51
+dependence,thicken,51
+neutropenia,muscle hypotonia,50
+pancytopenia,pain,50
+chronic alcoholic intoxication,systolic ejection murmur,50
+influenza,prostatism,50
+biliary calculus,adverse reaction,50
+influenza,frothy sputum,50
+cholecystitis,tired,50
+hyperbilirubinemia,sweating increased,50
+thrombus,night sweat,50
+ileus,titubation,50
+hyperbilirubinemia,throat sore,50
+cholelithiasis,extreme exhaustion,50
+ileus,spasm,50
+dependence,hemiplegia,50
+hyperbilirubinemia,pain,50
+neutropenia,soft tissue swelling,50
+endocarditis,lung nodule,50
+chronic alcoholic intoxication,sputum purulent,50
+ileus,muscle hypotonia,49
+herniaÂ hiatal,pain,49
+pericardial effusion body substance,alcohol binge episode,49
+neutropenia,cardiovascular finding,49
+pyelonephritis,cardiovascular event,49
+pancytopenia,non-productive cough,49
+pancytopenia,"hypothermia, natural",49
+cholelithiasis,bowel sounds decreased,49
+herniaÂ hiatal,"hypothermia, natural",49
+biliary calculus,decreased body weight,49
+pancytopenia,aphagia,49
+pancytopenia,milky,49
+influenza,nonsmoker,49
+ileus,verbal auditory hallucinations,49
+carcinoma of lung,ataxia,48
+endocarditis,bleeding of vagina,48
+cholecystitis,pleuritic pain,48
+cholecystitis,oliguria,48
+neutropenia,bradycardia,48
+hyperbilirubinemia,nasal discharge present,48
+pneumothorax,unhappy,48
+influenza,pain,48
+herniaÂ hiatal,night sweat,48
+cholecystitis,sleepy,48
+tachycardia sinus,decreased translucency,48
+cholelithiasis,leftÂ atrialÂ hypertrophy,48
+effusion pericardial,primigravida,48
+ileus,sinus rhythm,48
+pneumothorax,hypoalbuminemia,48
+herniaÂ hiatal,transaminitis,48
+neutropenia,catatonia,48
+herniaÂ hiatal,retropulsion,47
+tachycardia sinus,pin-point pupils,47
+thrombus,verbally abusive behavior,47
+pancytopenia,catatonia,47
+adhesion,pain abdominal,47
+ileus,elation,47
+cholelithiasis,hypoalbuminemia,47
+cholecystitis,asymptomatic,47
+dependence,distended abdomen,47
+herniaÂ hiatal,debilitation,47
+delusion,pain abdominal,47
+tachycardia sinus,worry,47
+pericardial effusion body substance,hoarseness,47
+endocarditis,homelessness,47
+tachycardia sinus,apyrexial,47
+chronic alcoholic intoxication,drowsiness,47
+influenza,pulsusÂ paradoxus,47
+chronic alcoholic intoxication,breech presentation,47
+dependence,out of breath,47
+ileus,para 1,47
+effusion pericardial,hyperemesis,47
+tachycardia sinus,sleeplessness,47
+herniaÂ hiatal,fever,47
+cholecystitis,nausea and vomiting,47
+endocarditis,nightmare,47
+cholelithiasis,lip smacking,46
+adhesion,apyrexial,46
+delusion,nausea and vomiting,46
+delusion,lip smacking,46
+cholelithiasis,awakening early,46
+biliary calculus,hallucinations visual,46
+adhesion,colic abdominal,46
+tachycardia sinus,extreme exhaustion,46
+thrombus,weight gain,46
+ileus,hematuria,46
+adhesion,numbness of hand,46
+ileus,hyperkalemia,46
+endocarditis,breech presentation,46
+dependence,wheelchair bound,46
+cholecystitis,cyanosis,46
+tachycardia sinus,urge incontinence,46
+influenza,flushing,46
+thrombus,pain,46
+ileus,hyperventilation,45
+emphysema pulmonary,patient non compliance,45
+affect labile,prostatism,45
+delusion,pain,45
+cholecystitis,excruciating pain,45
+ileus,systolic murmur,45
+ileus,haemorrhage,45
+affect labile,bedridden,45
+affect labile,hallucinations visual,45
+affect labile,extreme exhaustion,45
+affect labile,enuresis,45
+affect labile,sleeplessness,45
+affect labile,feeling hopeless,45
+adhesion,hydropneumothorax,45
+delusion,fatigue,45
+delusion,scleralÂ icterus,45
+affect labile,patient non compliance,45
+cholecystitis,seizure,45
+delusion,behavior showing increased motor activity,45
+delusion,hyponatremia,45
+tachycardia sinus,sleepy,45
+hemorrhoids,t wave inverted,45
+tachycardia sinus,lightheadedness,45
+pericardial effusion body substance,cardiovascular event,45
+adhesion,metastatic lesion,44
+tachycardia sinus,has religious belief,44
+cholelithiasis,choke,44
+adhesion,fatigue,44
+cholelithiasis,absences finding,44
+delusion,hoard,44
+neutropenia,ambidexterity,44
+herniaÂ hiatal,decreased body weight,44
+adhesion,transaminitis,44
+delusion,frail,44
+thrombus,heme positive,44
+tachycardia sinus,decreased body weight,44
+ileus,formication,44
+pancytopenia,dyspnea,44
+ileus,fecaluria,44
+herniaÂ hiatal,immobile,44
+ileus,flushing,44
+pancytopenia,nausea and vomiting,44
+adhesion,achalasia,43
+adhesion,side pain,43
+neutropenia,sleepy,43
+adhesion,polymyalgia,43
+adhesion,behavior hyperactive,43
+adhesion,clonus,43
+delusion,prostate tender,43
+ileus,nonsmoker,43
+delusion,stupor,43
+cholelithiasis,hyponatremia,43
+delusion,sleepy,43
+delusion,cough,43
+ileus,decreased body weight,43
+delusion,has religious belief,43
+ileus,difficulty passing urine,43
+adhesion,chest discomfort,43
+delusion,debilitation,43
+affect labile,tenesmus,43
+delusion,weight gain,43
+delusion,underweight,42
+affect labile,myoclonus,42
+affect labile,slowing of urinary stream,42
+affect labile,lesion,42
+affect labile,colic abdominal,42
+delusion,constipation,42
+decubitus ulcer,systolic murmur,42
+affect labile,oliguria,42
+decubitus ulcer,fever,42
+decubitus ulcer,frail,42
+delusion,dizzy spells,42
+delusion,numbness of hand,42
+delusion,clammy skin,42
+affect labile,ecchymosis,42
+affect labile,myalgia,42
+delusion,prostatism,42
+delusion,passed stones,42
+affect labile,unconscious state,42
+delusion,lung nodule,42
+affect labile,painful swallowing,42

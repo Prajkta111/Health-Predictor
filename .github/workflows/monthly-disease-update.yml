@@ -1,0 +1,199 @@
+name: Monthly Disease Discovery and Dataset Update
+
+on:
+  schedule:
+    # Run on the 1st day of every month at 2:00 AM UTC
+    - cron: '0 2 1 * *'
+  
+  # Allow manual triggering
+  workflow_dispatch:
+    inputs:
+      force_discovery:
+        description: 'Force discovery even if recently run'
+        required: false
+        default: 'false'
+        type: boolean
+
+env:
+  PYTHON_VERSION: '3.11'
+
+jobs:
+  discover-and-update:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        fetch-depth: 0
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: ${{ env.PYTHON_VERSION }}
+        cache: 'pip'
+    
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install pandas requests pathlib
+        
+    - name: Check if discovery needed
+      id: check_discovery
+      run: |
+        # Check if we've run discovery in the last 25 days
+        if [ -f "ML/scraping/discovery_summary.json" ]; then
+          last_run=$(python -c "
+        import json
+        from datetime import datetime, timedelta
+        try:
+            with open('ML/scraping/discovery_summary.json') as f:
+                data = json.load(f)
+            last_date = datetime.fromisoformat(data['timestamp'].replace('Z', '+00:00'))
+            cutoff = datetime.now() - timedelta(days=25)
+            print('skip' if last_date > cutoff and '${{ github.event.inputs.force_discovery }}' != 'true' else 'run')
+        except:
+            print('run')
+        ")
+          echo "discovery_needed=$last_run" >> $GITHUB_OUTPUT
+        else
+          echo "discovery_needed=run" >> $GITHUB_OUTPUT
+        fi
+    
+    - name: Run disease discovery and dataset update
+      if: steps.check_discovery.outputs.discovery_needed == 'run'
+      run: |
+        cd ML/scraping
+        echo "Starting disease discovery and dataset update..."
+        python update.py --full-pipeline
+        
+    - name: Check for changes
+      id: changes
+      if: steps.check_discovery.outputs.discovery_needed == 'run'
+      run: |
+        if git diff --quiet; then
+          echo "has_changes=false" >> $GITHUB_OUTPUT
+        else
+          echo "has_changes=true" >> $GITHUB_OUTPUT
+        fi
+        
+        # Count files changed
+        changed_files=$(git diff --name-only | wc -l)
+        echo "changed_files=$changed_files" >> $GITHUB_OUTPUT
+        
+        # Get summary if available
+        if [ -f "ML/scraping/discovery_summary.json" ]; then
+          new_diseases=$(python -c "
+        import json
+        try:
+            with open('ML/scraping/discovery_summary.json') as f:
+                data = json.load(f)
+            print(data.get('new_diseases_count', 0))
+        except:
+            print(0)
+        ")
+          echo "new_diseases=$new_diseases" >> $GITHUB_OUTPUT
+        else
+          echo "new_diseases=0" >> $GITHUB_OUTPUT
+        fi
+    
+    - name: Create Pull Request
+      if: steps.changes.outputs.has_changes == 'true'
+      uses: peter-evans/create-pull-request@v5
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        commit-message: |
+          🤖 Monthly disease discovery update
+          
+          - Added ${{ steps.changes.outputs.new_diseases }} new diseases
+          - Updated disease-symptom dataset
+          - Modified ${{ steps.changes.outputs.changed_files }} files
+        title: '🤖 Monthly Disease Discovery - ${{ steps.changes.outputs.new_diseases }} new diseases'
+        body: |
+          ## 🔬 Automated Disease Discovery Results
+          
+          This is an automated monthly update that:
+          
+          ### 📊 Summary
+          - **New diseases discovered**: ${{ steps.changes.outputs.new_diseases }}
+          - **Files modified**: ${{ steps.changes.outputs.changed_files }}
+          - **Discovery date**: ${{ github.run_id }}
+          
+          ### 🧬 What was updated:
+          - `ML/scraping/disease.csv` - Updated with newly discovered diseases
+          - `Datasets/self data/output/common pivoted 2.csv` - Updated disease-symptom matrix
+          - Summary files with processing details
+          
+          ### 🔍 Discovery Process:
+          The automation discovered new diseases from multiple medical databases and knowledge sources, then updated the symptom mapping using Wikidata.
+          
+          ### ⚡ Next Steps:
+          1. Review the newly added diseases for accuracy
+          2. Verify the symptom mappings are correct
+          3. Merge this PR to update the main dataset
+          
+          ---
+          *This PR was automatically created by GitHub Actions*
+        branch: automated-disease-update-${{ github.run_number }}
+        delete-branch: true
+    
+    - name: Add summary comment
+      if: steps.changes.outputs.has_changes == 'true'
+      run: |
+        echo "## 🎉 Disease Discovery Completed Successfully!" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "### 📈 Results:" >> $GITHUB_STEP_SUMMARY
+        echo "- **New diseases found**: ${{ steps.changes.outputs.new_diseases }}" >> $GITHUB_STEP_SUMMARY
+        echo "- **Files updated**: ${{ steps.changes.outputs.changed_files }}" >> $GITHUB_STEP_SUMMARY
+        echo "- **Pull Request**: Created automatically" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "The disease database has been updated with new medical conditions and their associated symptoms." >> $GITHUB_STEP_SUMMARY
+    
+    - name: No changes summary
+      if: steps.changes.outputs.has_changes == 'false' && steps.check_discovery.outputs.discovery_needed == 'run'
+      run: |
+        echo "## ℹ️ No New Diseases Found" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "The disease discovery process completed but no new diseases were found that aren't already in the database." >> $GITHUB_STEP_SUMMARY
+        echo "This is normal and means our database is comprehensive for current medical knowledge." >> $GITHUB_STEP_SUMMARY
+    
+    - name: Skipped discovery summary
+      if: steps.check_discovery.outputs.discovery_needed == 'skip'
+      run: |
+        echo "## ⏭️ Discovery Skipped" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "Disease discovery was skipped because it was recently run (within the last 25 days)." >> $GITHUB_STEP_SUMMARY
+        echo "Use 'Force discovery' option when running manually to override this behavior." >> $GITHUB_STEP_SUMMARY
+
+  # Fallback job for manual dataset updates without discovery
+  update-only:
+    runs-on: ubuntu-latest
+    if: github.event_name == 'workflow_dispatch' && github.event.inputs.force_discovery == 'false'
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: ${{ env.PYTHON_VERSION }}
+    
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install pandas requests pathlib
+    
+    - name: Update dataset only
+      run: |
+        cd ML/scraping
+        python update.py --update-only
+    
+    - name: Upload artifacts
+      uses: actions/upload-artifact@v3
+      with:
+        name: updated-dataset
+        path: |
+          Datasets/self data/output/*.csv
+          Datasets/self data/output/*.json
